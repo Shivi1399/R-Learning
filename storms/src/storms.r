@@ -1,7 +1,7 @@
 install.packages("dplyr")
 library("dplyr")
 
-storms <- read.csv("../dataset/storms.csv")
+storms <- read.csv("storms/dataset/storms.csv")
 
 # storms of 1980's
 storm_of_1980s <- storms %>%
