@@ -1,0 +1,996 @@
+"","customer_id","segment","rfm_score","transaction_count","recency_days","amount","recency_score","frequency_score","monetary_score"
+"1","Abbey O'Reilly DVM","Loyal",343,6,205,472,3,4,3
+"2","Add Senger","Likely to be Loyal",412,3,140,340,4,1,2
+"3","Aden Lesch Sr.","Likely to be Loyal",323,4,194,405,3,2,3
+"4","Admiral Senger","Loyal",433,5,132,448,4,3,3
+"5","Agness O'Keefe","First Grade",555,9,90,843,5,5,5
+"6","Aileen Barton","First Grade",555,9,84,763,5,5,5
+"7","Ailene Hermann","Loyal",355,8,281,699,3,5,5
+"8","Aiyanna Bruen PhD","Likely to be Loyal",321,4,246,157,3,2,1
+"9","Ala Schmidt DDS","Getting less Frequent",212,3,349,363,2,1,2
+"10","Alannah Borer","Dont'show up at all",121,4,619,196,1,2,1
+"11","Alcide Rohan","Loyal",433,5,138,500,4,3,3
+"12","Aleena Berge","Likely to be Loyal",523,4,102,393,5,2,3
+"13","Alessandra Heaney","Likely to be Loyal",411,1,168,28,4,1,1
+"14","Alethea Blanda","Likely to be Loyal",421,4,157,245,4,2,1
+"15","Alex Armstrong","Almost Out",144,6,482,634,1,4,4
+"16","Alex Bergnaum","Likely to be Loyal",311,1,239,175,3,1,1
+"17","Alexis Cormier","First Grade",455,8,150,786,4,5,5
+"18","Alf Lueilwitz","Loyal",344,7,202,596,3,4,4
+"19","Alferd Ziemann","Loyal",335,5,245,697,3,3,5
+"20","Alfred Metz","Loyal",345,7,245,703,3,4,5
+"21","Almedia Yundt","Likely to be Loyal",423,4,146,436,4,2,3
+"22","Alpheus Wilkinson","Loyal",244,6,405,597,2,4,4
+"23","Alphonse Champlin V","Others",342,7,214,367,3,4,2
+"24","Alton Wintheiser","Loyal",233,5,475,392,2,3,3
+"25","Alvah Bogisich","Loyal",354,8,191,598,3,5,4
+"26","Alvera Balistreri","Loyal",434,5,127,539,4,3,4
+"27","Alwina Wilkinson DDS","Loyal",345,6,227,712,3,4,5
+"28","Alyssia Hickle","Loyal",333,5,209,387,3,3,3
+"29","Amina Renner","Loyal",334,5,215,663,3,3,4
+"30","Amit Langworth","Getting less Frequent",211,2,414,253,2,1,1
+"31","Anabel Jakubowski PhD","Loyal",443,6,164,443,4,4,3
+"32","Anastasia Howe","Require Assistance",223,4,339,425,2,2,3
+"33","Anderson Quitzon","Dont'show up at all",112,3,676,287,1,1,2
+"34","Andra Bosco","Likely to be Loyal",421,4,156,225,4,2,1
+"35","Andra Goodwin","Likely to be Loyal",521,4,12,202,5,2,1
+"36","Angeles McLaughlin PhD","Dont'show up at all",112,2,937,316,1,1,2
+"37","Anie Hettinger","Getting less Frequent",212,3,444,325,2,1,2
+"38","Anjelica Klocko","Almost Out",224,4,458,589,2,2,4
+"39","Antonio Bechtelar V","Dont'show up at all",112,3,666,336,1,1,2
+"40","Ariane Hansen","Loyal",244,6,455,507,2,4,4
+"41","Ariel Yundt","First Grade",455,10,126,1069,4,5,5
+"42","Arlie Brekke IV","Loyal",233,5,327,434,2,3,3
+"43","Arlyn Dickinson","First Grade",544,7,39,600,5,4,4
+"44","Arnett Waters","Likely to be Loyal",332,5,210,341,3,3,2
+"45","Arno Blick","Likely to be Loyal",523,4,46,388,5,2,3
+"46","Art Hyatt III","Loyal",345,6,274,803,3,4,5
+"47","Aryan Bahringer","Others",324,4,286,527,3,2,4
+"48","Asha Ankunding","Getting less Frequent",211,3,399,81,2,1,1
+"49","Ashleigh Eichmann","Others",425,4,162,681,4,2,5
+"50","Aubrey Witting","Likely to be Loyal",521,4,53,229,5,2,1
+"51","Aurthur Kirlin II","First Grade",455,9,116,856,4,5,5
+"52","Auther Haley","First Grade",555,9,57,878,5,5,5
+"53","Avah Schneider","First Grade",445,7,122,777,4,4,5
+"54","Avery Bartoletti","Likely to be Loyal",322,4,183,370,3,2,2
+"55","Ayesha Carroll","Loyal",533,5,35,390,5,3,3
+"56","Azariah Lubowitz","Loyal",433,5,179,425,4,3,3
+"57","Azul Wehner","Dont'show up at all",111,1,932,190,1,1,1
+"58","Barrett Turcotte DVM","Likely to be Loyal",322,4,186,319,3,2,2
+"59","Bartley Collier","Dont'show up at all",111,2,872,141,1,1,1
+"60","Bascom Prosacco","Likely to be Loyal",311,3,253,211,3,1,1
+"61","Bea Considine","Loyal",234,5,312,527,2,3,4
+"62","Beda Paucek","Dont'show up at all",111,2,488,198,1,1,1
+"63","Benjamin Barton","Loyal",334,5,181,552,3,3,4
+"64","Benji Jacobson","Dont'show up at all",111,2,632,94,1,1,1
+"65","Bennett Gleason","Likely to be Loyal",311,1,202,37,3,1,1
+"66","Benson Schulist","Loyal",345,7,217,764,3,4,5
+"67","Berkley Ernser DDS","Loyal",355,9,269,696,3,5,5
+"68","Bernard Bruen","First Grade",555,8,72,875,5,5,5
+"69","Bernetta O'Conner","Likely to be Loyal",522,4,114,276,5,2,2
+"70","Bernhard Lind","Likely to be Loyal",422,4,152,375,4,2,2
+"71","Bertina Renner MD","First Grade",544,6,5,528,5,4,4
+"72","Bessie Kub","Loyal",255,9,457,977,2,5,5
+"73","Bethel Wunsch","Getting less Frequent",211,3,331,190,2,1,1
+"74","Bilal Hahn","Dont'show up at all",111,2,588,241,1,1,1
+"75","Blair Cormier","Loyal",335,5,250,733,3,3,5
+"76","Blair Erdman PhD","Loyal",355,8,181,845,3,5,5
+"77","Bobby Corwin","Getting less Frequent",211,3,365,246,2,1,1
+"78","Bonny Breitenberg","Almost Out",144,6,573,531,1,4,4
+"79","Boyd Cronin","Getting less Frequent",212,3,298,318,2,1,2
+"80","Bradford Bode","Likely to be Loyal",532,5,13,330,5,3,2
+"81","Braelyn King","Loyal",433,5,170,435,4,3,3
+"82","Braiden Bogan","Loyal",233,5,479,470,2,3,3
+"83","Braulio Haag MD","Likely to be Loyal",312,3,186,381,3,1,2
+"84","Brayan Terry","Almost Out",122,4,601,338,1,2,2
+"85","Braydon Lindgren","Likely to be Loyal",411,1,176,188,4,1,1
+"86","Brionna Miller","Likely to be Loyal",422,4,174,374,4,2,2
+"87","Britany O'Hara","Others",542,7,18,330,5,4,2
+"88","Britni Daugherty","Likely to be Loyal",511,3,62,226,5,1,1
+"89","Britton Brekke","Getting less Frequent",212,3,363,336,2,1,2
+"90","Bronson Towne","Likely to be Loyal",521,4,89,161,5,2,1
+"91","Brooks Funk","Dont'show up at all",111,2,497,96,1,1,1
+"92","Bryson Reinger","First Grade",444,6,175,580,4,4,4
+"93","Bud Marquardt","Almost Out",132,5,521,323,1,3,2
+"94","Buddie Terry MD","Loyal",344,7,294,635,3,4,4
+"95","Buford Pollich","Likely to be Loyal",523,4,101,492,5,2,3
+"96","Burke Boehm Sr.","Dont'show up at all",112,3,578,316,1,1,2
+"97","Burke Connelly","Loyal",543,6,41,465,5,4,3
+"98","Burns Mayer","Loyal",333,5,266,419,3,3,3
+"99","Burr O'Kon","Likely to be Loyal",422,4,172,381,4,2,2
+"100","Burton Kuvalis","Likely to be Loyal",323,4,259,393,3,2,3
+"101","Bush Macejkovic","Likely to be Loyal",313,3,203,442,3,1,3
+"102","Bush Schroeder","Loyal",344,6,236,639,3,4,4
+"103","Butler Schmitt","First Grade",445,7,122,689,4,4,5
+"104","Byrd Abshire","Likely to be Loyal",513,3,59,456,5,1,3
+"105","Byrd Kuhn MD","Loyal",334,5,225,532,3,3,4
+"106","Cali Weimann","Loyal",234,5,473,533,2,3,4
+"107","Cameron Abbott DDS","First Grade",555,8,108,723,5,5,5
+"108","Candido Krajcik","First Grade",554,8,71,613,5,5,4
+"109","Cari Renner PhD","First Grade",455,8,180,787,4,5,5
+"110","Carlton Mante","Loyal",434,5,164,522,4,3,4
+"111","Carlyn Mann","Likely to be Loyal",411,2,172,171,4,1,1
+"112","Carmel Emard","Likely to be Loyal",311,3,182,143,3,1,1
+"113","Carmella Schiller","Loyal",345,6,200,721,3,4,5
+"114","Cary McGlynn","Loyal",334,5,222,520,3,3,4
+"115","Casandra Krajcik","First Grade",455,10,144,968,4,5,5
+"116","Case Weber","First Grade",544,6,77,564,5,4,4
+"117","Casen Blick V","Require Assistance",223,4,391,407,2,2,3
+"118","Casen Kuhlman","Likely to be Loyal",511,2,27,186,5,1,1
+"119","Caswell Anderson","Almost Out",134,5,499,559,1,3,4
+"120","Catalina Ortiz","Loyal",245,7,426,837,2,4,5
+"121","Catharine Pacocha","Dont'show up at all",112,3,601,346,1,1,2
+"122","Cathey Beatty","Others",342,6,250,343,3,4,2
+"123","Cato Cartwright","Likely to be Loyal",432,5,144,314,4,3,2
+"124","Caylee Carroll","Loyal",344,7,240,636,3,4,4
+"125","Celine Wisozk","First Grade",544,7,95,596,5,4,4
+"126","Chadrick Williamson","Likely to be Loyal",532,5,46,281,5,3,2
+"127","Chantelle Gaylord","Dont'show up at all",112,3,526,293,1,1,2
+"128","Charity Rodriguez","Loyal",233,5,350,420,2,3,3
+"129","Charls Rempel DDS","Likely to be Loyal",411,2,155,187,4,1,1
+"130","Charolette Klein","Almost Out",224,4,474,602,2,2,4
+"131","Chase Skiles","Almost Out",145,6,525,728,1,4,5
+"132","Chastity Greenfelder PhD","Dont'show up at all",111,3,506,222,1,1,1
+"133","Cherrelle Bartell","Others",542,6,84,277,5,4,2
+"134","Christal Dooley","Dont'show up at all",112,3,537,311,1,1,2
+"135","Christal Lakin DDS","Others",213,3,458,491,2,1,3
+"136","Christi Connelly","Likely to be Loyal",512,3,114,295,5,1,2
+"137","Claire Terry","First Grade",445,6,167,775,4,4,5
+"138","Claire Torp","Likely to be Loyal",312,3,280,353,3,1,2
+"139","Claudette Cummings DVM","Others",442,6,140,313,4,4,2
+"140","Claus Bradtke","Almost Out",123,4,676,435,1,2,3
+"141","Clemens Torp","Loyal",345,7,221,950,3,4,5
+"142","Cleveland Fay","First Grade",555,8,88,790,5,5,5
+"143","Clovis Feil I","Likely to be Loyal",312,3,268,312,3,1,2
+"144","Coley Lind Sr.","Others",213,3,307,439,2,1,3
+"145","Collie Greenholt","Likely to be Loyal",312,3,261,342,3,1,2
+"146","Collie Von MD","Loyal",244,6,462,612,2,4,4
+"147","Con Altenwerth","Getting less Frequent",212,2,463,271,2,1,2
+"148","Corda Towne","Loyal",355,8,183,1018,3,5,5
+"149","Corene Lind","Likely to be Loyal",521,4,59,218,5,2,1
+"150","Corey Bechtelar","Dont'show up at all",111,2,846,237,1,1,1
+"151","Corrina Little DDS","Others",113,3,592,484,1,1,3
+"152","Corrine Champlin","Loyal",344,6,265,510,3,4,4
+"153","Cristen Hammes","Loyal",233,5,392,402,2,3,3
+"154","Cristine Baumbach","Loyal",344,6,265,620,3,4,4
+"155","Cristofer VonRueden","Loyal",344,6,229,615,3,4,4
+"156","Cristy Ferry","Dont'show up at all",111,1,559,172,1,1,1
+"157","Curtis Runolfsdottir","Loyal",234,5,431,566,2,3,4
+"158","Daija Legros","Likely to be Loyal",523,4,30,432,5,2,3
+"159","Daisha Torphy","Likely to be Loyal",532,5,82,371,5,3,2
+"160","Damarcus Erdman II","Loyal",234,5,446,589,2,3,4
+"161","Darci Schaefer","Dont'show up at all",111,2,583,198,1,1,1
+"162","Darrell Heathcote","Likely to be Loyal",422,4,160,316,4,2,2
+"163","Darrian Bartell I","First Grade",555,8,48,819,5,5,5
+"164","Darrion Stoltenberg","First Grade",445,6,176,766,4,4,5
+"165","Darwyn Berge","Getting less Frequent",211,2,480,62,2,1,1
+"166","Daryn Hickle","Require Assistance",222,4,352,364,2,2,2
+"167","Dashawn Schroeder","Dont'show up at all",111,2,589,244,1,1,1
+"168","Davian Ledner","Likely to be Loyal",322,4,199,291,3,2,2
+"169","Davian Stokes","Likely to be Loyal",423,4,143,385,4,2,3
+"170","Davie Hintz PhD","Require Assistance",222,4,430,363,2,2,2
+"171","Davion Hudson","Likely to be Loyal",311,2,251,172,3,1,1
+"172","Davy Leuschke","Likely to be Loyal",322,4,295,356,3,2,2
+"173","Deann Dicki","Getting less Frequent",211,3,430,205,2,1,1
+"174","Deasia Lockman MD","Getting less Frequent",211,1,392,185,2,1,1
+"175","Deena Ziemann","Likely to be Loyal",423,4,137,422,4,2,3
+"176","Deion Auer","Almost Out",122,4,847,328,1,2,2
+"177","Delfina Watsica MD","First Grade",545,6,10,668,5,4,5
+"178","Delia Witting","Likely to be Loyal",522,4,17,323,5,2,2
+"179","Dell Mitchell","Getting less Frequent",211,2,359,231,2,1,1
+"180","Dellar Schroeder","Loyal",543,6,39,460,5,4,3
+"181","Dema Beer","Likely to be Loyal",521,4,23,251,5,2,1
+"182","Dennie Powlowski","Loyal",234,5,467,581,2,3,4
+"183","Deontae Effertz","First Grade",444,7,135,544,4,4,4
+"184","Deonte Zemlak","Loyal",534,5,95,586,5,3,4
+"185","Dereck Denesik DDS","Others",524,4,9,633,5,2,4
+"186","Derek Witting","Almost Out",135,5,556,674,1,3,5
+"187","Desi Ortiz","First Grade",444,7,154,626,4,4,4
+"188","Devante Gerhold","Almost Out",135,5,529,713,1,3,5
+"189","Devante O'Hara","Likely to be Loyal",511,3,81,166,5,1,1
+"190","Devaughn Erdman V","Likely to be Loyal",523,4,99,384,5,2,3
+"191","Devon Osinski DVM","Others",114,3,545,579,1,1,4
+"192","Devontae Swaniawski","Almost Out",122,4,508,274,1,2,2
+"193","Diandra Brakus DVM","Dont'show up at all",111,3,557,211,1,1,1
+"194","Diego Gislason","Likely to be Loyal",331,5,224,198,3,3,1
+"195","Domingo Block","Almost Out",134,5,511,532,1,3,4
+"196","Dominick Jewess IV","Others",324,4,186,575,3,2,4
+"197","Dominik Anderson","First Grade",555,10,20,1249,5,5,5
+"198","Dominique McKenzie","Loyal",234,5,332,615,2,3,4
+"199","Donaciano Corwin","First Grade",555,8,12,892,5,5,5
+"200","Donell Dach","Likely to be Loyal",412,3,146,260,4,1,2
+"201","Donie Stroman PhD","Likely to be Loyal",511,2,92,97,5,1,1
+"202","Donta Veum","Almost Out",145,7,515,792,1,4,5
+"203","Dorathy Nader","Loyal",533,5,101,456,5,3,3
+"204","Dorcas Friesen","Almost Out",134,5,655,648,1,3,4
+"205","Dorr Lindgren","Loyal",334,5,208,583,3,3,4
+"206","Dorris Jast","Almost Out",124,4,629,549,1,2,4
+"207","Doshia Stroman","Likely to be Loyal",511,3,102,123,5,1,1
+"208","Dow Halvorson","Loyal",245,6,317,836,2,4,5
+"209","Dr. Aden Murphy","First Grade",544,7,98,596,5,4,4
+"210","Dr. Alberto Kunze II","Loyal",345,7,210,669,3,4,5
+"211","Dr. Alva Klocko","Loyal",334,5,267,548,3,3,4
+"212","Dr. Arnoldo Grimes PhD","Likely to be Loyal",313,3,282,398,3,1,3
+"213","Dr. Arnoldo Marks","First Grade",444,6,129,567,4,4,4
+"214","Dr. Barrie Bins","Likely to be Loyal",523,4,4,446,5,2,3
+"215","Dr. Bertrand Wolff","Dont'show up at all",111,1,870,120,1,1,1
+"216","Dr. Bree Stehr DVM","Loyal",244,7,376,607,2,4,4
+"217","Dr. Buffy Williamson","Getting less Frequent",212,3,298,353,2,1,2
+"218","Dr. Camilo Kiehn","Require Assistance",222,4,445,281,2,2,2
+"219","Dr. Carma Wyman","First Grade",544,7,44,620,5,4,4
+"220","Dr. Charlton Kutch","Likely to be Loyal",422,4,135,360,4,2,2
+"221","Dr. Chas Cummerata Jr.","Dont'show up at all",111,2,510,169,1,1,1
+"222","Dr. Cheyenne Dach DVM","Loyal",433,5,153,406,4,3,3
+"223","Dr. Christal Wolff PhD","First Grade",455,9,116,1007,4,5,5
+"224","Dr. Collie Krajcik","First Grade",445,7,144,704,4,4,5
+"225","Dr. Crawford Mayert","Dont'show up at all",121,4,504,222,1,2,1
+"226","Dr. Darl Rice","Require Assistance",223,4,433,392,2,2,3
+"227","Dr. Dell Baumbach III","Likely to be Loyal",512,3,80,270,5,1,2
+"228","Dr. Dillon Pollich DDS","Almost Out",132,5,558,284,1,3,2
+"229","Dr. Donal Auer DDS","Likely to be Loyal",322,4,284,370,3,2,2
+"230","Dr. Dustyn Rodriguez","Almost Out",242,7,439,265,2,4,2
+"231","Dr. Eddie Armstrong DDS","Loyal",543,6,64,433,5,4,3
+"232","Dr. Eliezer Wuckert","First Grade",444,6,130,529,4,4,4
+"233","Dr. Elroy Kirlin Jr.","Likely to be Loyal",532,5,28,363,5,3,2
+"234","Dr. Elzy Anderson","Loyal",443,6,168,448,4,4,3
+"235","Dr. Erving Pagac Sr.","Likely to be Loyal",511,3,62,244,5,1,1
+"236","Dr. Ferd Stroman","Likely to be Loyal",312,3,183,298,3,1,2
+"237","Dr. Fleming Grant IV","Dont'show up at all",111,2,686,172,1,1,1
+"238","Dr. Flint Zboncak","Require Assistance",222,4,327,277,2,2,2
+"239","Dr. Franco Kemmer II","Loyal",355,12,260,1065,3,5,5
+"240","Dr. Fredrick Klein","Loyal",343,6,199,471,3,4,3
+"241","Dr. Fronnie Kemmer","Dont'show up at all",112,3,531,363,1,1,2
+"242","Dr. Gerard Bauch","Likely to be Loyal",422,4,173,282,4,2,2
+"243","Dr. Grady Beier DDS","Loyal",234,5,408,542,2,3,4
+"244","Dr. Gussie McLaughlin III","Loyal",433,5,132,471,4,3,3
+"245","Dr. Halley Johnston PhD","Getting less Frequent",212,3,399,266,2,1,2
+"246","Dr. Hansel Steuber","Require Assistance",222,4,393,333,2,2,2
+"247","Dr. Hildegard Murray","Loyal",345,7,213,672,3,4,5
+"248","Dr. Hjalmar Langworth II","Likely to be Loyal",411,2,119,114,4,1,1
+"249","Dr. Hoke Jacobs","Loyal",435,5,133,708,4,3,5
+"250","Dr. Howard Zulauf V","Dont'show up at all",111,1,569,113,1,1,1
+"251","Dr. Humphrey Grant","Likely to be Loyal",411,2,164,138,4,1,1
+"252","Dr. Isaak Oberbrunner DVM","Likely to be Loyal",331,5,228,228,3,3,1
+"253","Dr. Ismael Stracke","Almost Out",134,5,491,521,1,3,4
+"254","Dr. Jaheem Pfannerstill III","First Grade",444,6,153,641,4,4,4
+"255","Dr. Jaren Schmeler","Likely to be Loyal",513,3,102,421,5,1,3
+"256","Dr. Jeannie Rutherford","Almost Out",123,4,511,416,1,2,3
+"257","Dr. Jeff Bartoletti","First Grade",555,8,81,771,5,5,5
+"258","Dr. Jeffie Johns","Loyal",354,8,294,665,3,5,4
+"259","Dr. Jerod Berge Jr.","Loyal",243,6,422,392,2,4,3
+"260","Dr. Jesse Schowalter","First Grade",545,6,29,714,5,4,5
+"261","Dr. Jett Schaefer","Dont'show up at all",112,3,589,366,1,1,2
+"262","Dr. Karissa Kerluke","Dont'show up at all",111,1,700,57,1,1,1
+"263","Dr. Keenen Parker","First Grade",554,8,57,532,5,5,4
+"264","Dr. Kelcie Yost MD","Loyal",244,7,481,646,2,4,4
+"265","Dr. Kieth Wiegand","Likely to be Loyal",322,4,210,350,3,2,2
+"266","Dr. Kloe Parker DVM","Likely to be Loyal",522,4,113,289,5,2,2
+"267","Dr. Kyle Doyle II","Loyal",355,8,183,889,3,5,5
+"268","Dr. Kyra Littel","Require Assistance",222,4,334,259,2,2,2
+"269","Dr. Letta Daniel MD","First Grade",445,7,161,688,4,4,5
+"270","Dr. Linn Schuppe","Likely to be Loyal",311,3,200,111,3,1,1
+"271","Dr. Lovett Legros DDS","Loyal",433,5,151,420,4,3,3
+"272","Dr. Lucious Langosh","Likely to be Loyal",422,4,116,265,4,2,2
+"273","Dr. Lynn Gleason Jr.","Getting less Frequent",211,3,476,114,2,1,1
+"274","Dr. Mallory Dooley MD","Getting less Frequent",211,1,399,33,2,1,1
+"275","Dr. Matteo Little","Likely to be Loyal",522,4,93,311,5,2,2
+"276","Dr. Mazie Predovic MD","Likely to be Loyal",532,5,99,283,5,3,2
+"277","Dr. Mettie Green DVM","Likely to be Loyal",413,3,179,464,4,1,3
+"278","Dr. Micayla Kutch","First Grade",555,10,32,834,5,5,5
+"279","Dr. Mike Legros","Likely to be Loyal",311,1,186,23,3,1,1
+"280","Dr. Myles Stroman","Dont'show up at all",111,2,485,187,1,1,1
+"281","Dr. Ned Swaniawski","Loyal",343,6,208,457,3,4,3
+"282","Dr. Nehemiah Kassulke","Dont'show up at all",111,1,534,111,1,1,1
+"283","Dr. Niles Altenwerth II","Loyal",244,7,380,644,2,4,4
+"284","Dr. Patti Rempel","Loyal",244,7,462,625,2,4,4
+"285","Dr. Ras Kshlerin","Loyal",535,5,78,672,5,3,5
+"286","Dr. Rayburn Wilkinson I","Almost Out",143,6,561,489,1,4,3
+"287","Dr. Rene Kuhlman DDS","Dont'show up at all",112,3,515,355,1,1,2
+"288","Dr. Romeo Sauer PhD","Likely to be Loyal",312,3,276,312,3,1,2
+"289","Dr. Santana Schultz V","Likely to be Loyal",423,4,131,390,4,2,3
+"290","Dr. Shaniece Herzog PhD","Likely to be Loyal",422,4,148,308,4,2,2
+"291","Dr. Shea Buckridge PhD","Loyal",443,6,166,420,4,4,3
+"292","Dr. Sherie Mayer","First Grade",444,7,172,654,4,4,4
+"293","Dr. Shirl Cremin PhD","Likely to be Loyal",322,4,201,326,3,2,2
+"294","Dr. Skyler Windler Sr.","Loyal",543,6,102,472,5,4,3
+"295","Dr. Tyreke DuBuque IV","Loyal",345,7,210,690,3,4,5
+"296","Dr. Valentine Volkman DVM","First Grade",555,8,81,1068,5,5,5
+"297","Dr. Vic Bauch","First Grade",555,9,64,850,5,5,5
+"298","Dr. Wilfredo Wisozk V","Getting less Frequent",212,3,477,332,2,1,2
+"299","Dr. Willis Bahringer","First Grade",544,6,42,665,5,4,4
+"300","Dr. Woodson Klein","Others",424,4,152,515,4,2,4
+"301","Drew Rohan","Getting less Frequent",211,2,432,230,2,1,1
+"302","Dudley Franecki","Likely to be Loyal",312,2,222,375,3,1,2
+"303","Dulce Wintheiser","Dont'show up at all",121,4,490,203,1,2,1
+"304","Dwain Skiles Jr.","Loyal",245,6,481,805,2,4,5
+"305","Dwan Wilderman","Likely to be Loyal",412,3,174,268,4,1,2
+"306","Dyllan Osinski","Likely to be Loyal",511,1,47,155,5,1,1
+"307","Ean Raynor","Dont'show up at all",111,2,499,77,1,1,1
+"308","Earnest Rolfson","Likely to be Loyal",423,4,148,433,4,2,3
+"309","Ebb Doyle","Likely to be Loyal",432,5,170,307,4,3,2
+"310","Egbert McLaughlin","Loyal",543,6,63,466,5,4,3
+"311","Elaine Emard","Require Assistance",222,4,480,301,2,2,2
+"312","Elam Hirthe DVM","Almost Out",144,6,652,546,1,4,4
+"313","Elenora Trantow","First Grade",455,9,172,826,4,5,5
+"314","Elgie Cole","Loyal",433,5,172,476,4,3,3
+"315","Elgin Abbott","Dont'show up at all",111,2,575,233,1,1,1
+"316","Elias Huels V","Almost Out",145,7,569,841,1,4,5
+"317","Elinor Howell","Loyal",245,6,320,746,2,4,5
+"318","Elinore Doyle","First Grade",544,7,83,531,5,4,4
+"319","Elizabet Schiller","Likely to be Loyal",511,2,62,194,5,1,1
+"320","Elizah Abbott","Loyal",543,6,102,431,5,4,3
+"321","Elizbeth West","Likely to be Loyal",311,2,187,183,3,1,1
+"322","Eller Marquardt","Almost Out",123,4,488,401,1,2,3
+"323","Elmyra Schaefer","Loyal",255,12,326,1150,2,5,5
+"324","Elon Haag","Dont'show up at all",111,1,696,32,1,1,1
+"325","Elsie Parker","First Grade",555,8,13,839,5,5,5
+"326","Elza Gleichner","Getting less Frequent",212,3,457,268,2,1,2
+"327","Emanuel Reichert","Loyal",333,5,269,421,3,3,3
+"328","Emmaline Stark MD","Likely to be Loyal",432,5,129,282,4,3,2
+"329","Enid Reinger","First Grade",555,9,7,792,5,5,5
+"330","Enos VonRueden","Dont'show up at all",111,3,629,99,1,1,1
+"331","Epifanio Kozey","Dont'show up at all",111,1,493,43,1,1,1
+"332","Erastus Macejkovic","Loyal",534,5,80,519,5,3,4
+"333","Erla Schulist","Likely to be Loyal",512,3,77,270,5,1,2
+"334","Errol Bogisich","Dont'show up at all",111,1,684,81,1,1,1
+"335","Esequiel Kirlin I","First Grade",455,12,159,768,4,5,5
+"336","Esker Cormier","Likely to be Loyal",522,4,33,283,5,2,2
+"337","Essence Metz DDS","Loyal",255,8,379,722,2,5,5
+"338","Ethyl Botsford","Loyal",354,8,252,526,3,5,4
+"339","Etta Franecki MD","Loyal",255,8,481,892,2,5,5
+"340","Etta Towne","First Grade",444,6,134,581,4,4,4
+"341","Eugenie Conn PhD","Dont'show up at all",112,2,548,286,1,1,2
+"342","Evelyn Schinner","Getting less Frequent",211,2,317,91,2,1,1
+"343","Ewart Haag","First Grade",454,10,168,595,4,5,4
+"344","Ewart Luettgen","Dont'show up at all",111,2,528,252,1,1,1
+"345","Ewin Torphy","Likely to be Loyal",513,2,98,424,5,1,3
+"346","Exie Gutmann","First Grade",544,7,103,651,5,4,4
+"347","Exie Shields","Likely to be Loyal",311,3,227,251,3,1,1
+"348","Ezzard Bernhard","Almost Out",242,6,423,317,2,4,2
+"349","Fannie Watsica","Loyal",344,7,181,648,3,4,4
+"350","Fidel Kilback","Likely to be Loyal",523,4,94,411,5,2,3
+"351","Finnegan Franecki","Almost Out",142,6,572,263,1,4,2
+"352","Flem Kozey","Others",342,6,182,365,3,4,2
+"353","Flo Gulgowski","Require Assistance",223,4,379,416,2,2,3
+"354","Florine Jones","Almost Out",122,4,509,269,1,2,2
+"355","Floy Krajcik","Loyal",333,5,272,484,3,3,3
+"356","Forest Pouros","Others",113,3,613,455,1,1,3
+"357","Fount Flatley","First Grade",455,11,146,937,4,5,5
+"358","Francisquita Heidenreich","Dont'show up at all",111,3,734,72,1,1,1
+"359","Franz Mohr","Almost Out",123,4,527,430,1,2,3
+"360","Franz Powlowski","Getting less Frequent",211,1,427,169,2,1,1
+"361","Friend Stracke","Loyal",244,6,456,571,2,4,4
+"362","Gabriel Schiller","Others",213,3,416,420,2,1,3
+"363","Garfield Hammes","Loyal",234,5,433,644,2,3,4
+"364","Garrison Kling","Likely to be Loyal",512,3,28,294,5,1,2
+"365","Gayle Kuphal","Loyal",533,5,20,460,5,3,3
+"366","Gaylen Kiehn","Almost Out",123,4,652,489,1,2,3
+"367","Gee Nitzsche","Likely to be Loyal",411,2,176,165,4,1,1
+"368","Geoffrey Reichert","Dont'show up at all",112,3,548,301,1,1,2
+"369","Georgene Aufderhar PhD","Loyal",443,6,122,464,4,4,3
+"370","Geralyn Rosenbaum","Loyal",533,5,80,393,5,3,3
+"371","Geri Wuckert","Dont'show up at all",111,1,599,86,1,1,1
+"372","Germaine Becker","Require Assistance",223,4,444,400,2,2,3
+"373","Gerold Bernhard Jr.","Likely to be Loyal",411,2,126,149,4,1,1
+"374","Gianna Stiedemann","First Grade",545,7,30,759,5,4,5
+"375","Gilmer Kertzmann","Almost Out",135,5,582,677,1,3,5
+"376","Gilmore Schmitt","Likely to be Loyal",432,5,125,353,4,3,2
+"377","Ginger Stamm","Likely to be Loyal",511,3,34,248,5,1,1
+"378","Ginger Wintheiser","Almost Out",122,4,633,340,1,2,2
+"379","Girtha Douglas","Likely to be Loyal",411,3,165,143,4,1,1
+"380","Giuseppe Tremblay","Dont'show up at all",111,3,577,162,1,1,1
+"381","Glennis Howe","Likely to be Loyal",511,3,101,188,5,1,1
+"382","Gonzalo Jones","Loyal",533,5,100,450,5,3,3
+"383","Gracia Wunsch","Loyal",344,6,225,662,3,4,4
+"384","Gregg Franecki","Likely to be Loyal",322,4,225,317,3,2,2
+"385","Grisel Reichert MD","Likely to be Loyal",432,5,150,260,4,3,2
+"386","Gunner Wiegand","Likely to be Loyal",521,4,96,234,5,2,1
+"387","Haden Kautzer","Likely to be Loyal",411,2,171,236,4,1,1
+"388","Hakeem Leffler","Likely to be Loyal",332,5,264,332,3,3,2
+"389","Halbert Nolan","Dont'show up at all",111,2,516,95,1,1,1
+"390","Hampton Rath","First Grade",444,6,127,619,4,4,4
+"391","Handy Walsh","First Grade",445,7,116,758,4,4,5
+"392","Hansel Kiehn","Loyal",443,6,134,416,4,4,3
+"393","Hansford Moen PhD","Loyal",345,7,186,1004,3,4,5
+"394","Hardy Leannon","Likely to be Loyal",411,3,136,236,4,1,1
+"395","Harlon Rolfson","Loyal",244,7,449,603,2,4,4
+"396","Harrie Swaniawski","Almost Out",132,5,636,363,1,3,2
+"397","Hassie Schiller PhD","Likely to be Loyal",311,2,187,119,3,1,1
+"398","Hattie Roberts","Loyal",433,5,122,436,4,3,3
+"399","Helmer Monahan","Getting less Frequent",212,3,331,264,2,1,2
+"400","Helyn Ondricka","Loyal",333,5,277,384,3,3,3
+"401","Herman Kling I","Loyal",244,6,371,578,2,4,4
+"402","Herschel Flatley","Loyal",244,6,379,518,2,4,4
+"403","Hershel Shields","First Grade",445,6,179,819,4,4,5
+"404","Hilma Little","First Grade",544,7,65,513,5,4,4
+"405","Hiroshi Terry","Loyal",343,6,239,434,3,4,3
+"406","Hobson Barton","Dont'show up at all",111,1,516,102,1,1,1
+"407","Holland Lynch","Almost Out",143,6,486,499,1,4,3
+"408","Hosteen Jacobi","Almost Out",122,4,545,300,1,2,2
+"409","Howell Blick","Likely to be Loyal",331,5,245,235,3,3,1
+"410","Hughey Bartoletti DDS","First Grade",555,10,73,1036,5,5,5
+"411","Hurley Schiller I","Loyal",245,6,442,687,2,4,5
+"412","Hyman Kemmer","Loyal",333,5,203,455,3,3,3
+"413","Iesha Mraz","Loyal",443,6,131,466,4,4,3
+"414","Iliana Donnelly","Loyal",333,5,251,486,3,3,3
+"415","Imani Swift","Loyal",244,6,443,546,2,4,4
+"416","Imelda Harber","Loyal",243,6,455,474,2,4,3
+"417","Ingrid O'Kon MD","Loyal",255,9,463,922,2,5,5
+"418","Irwin Ritchie","First Grade",445,6,159,694,4,4,5
+"419","Isabela Mertz MD","First Grade",555,13,97,1104,5,5,5
+"420","Isidore Skiles","Likely to be Loyal",323,4,189,410,3,2,3
+"421","Iverson Herman Sr.","First Grade",544,6,106,584,5,4,4
+"422","Iverson Hilpert","Likely to be Loyal",411,2,161,149,4,1,1
+"423","Iverson Robel","First Grade",455,9,160,880,4,5,5
+"424","Ivy Kohler","Loyal",245,7,356,719,2,4,5
+"425","Iyanna Schmeler PhD","Likely to be Loyal",323,4,182,473,3,2,3
+"426","Izetta Stracke","First Grade",544,7,106,523,5,4,4
+"427","Jabbar Dickens","First Grade",455,10,160,1060,4,5,5
+"428","Jacqueline Nikolaus","Loyal",343,7,280,434,3,4,3
+"429","Jacquez Jacobs","Getting less Frequent",211,2,375,87,2,1,1
+"430","Jadiel Wunsch","Loyal",235,5,343,714,2,3,5
+"431","Jaime Nader","Likely to be Loyal",322,4,191,276,3,2,2
+"432","Jaliyah Purdy","Likely to be Loyal",311,3,241,249,3,1,1
+"433","Jammie Runolfsdottir","Likely to be Loyal",332,5,276,374,3,3,2
+"434","Janeen West","Likely to be Loyal",532,5,66,374,5,3,2
+"435","Janell Heller DVM","Dont'show up at all",111,3,488,203,1,1,1
+"436","Janiyah Cassin","Getting less Frequent",211,2,360,75,2,1,1
+"437","Jarred Stiedemann DDS","Require Assistance",222,4,372,291,2,2,2
+"438","Jayden Hayes","Loyal",243,7,478,435,2,4,3
+"439","Jayme Welch","Dont'show up at all",111,1,760,23,1,1,1
+"440","Jayvion Cummings","First Grade",555,9,53,1090,5,5,5
+"441","Jazlyn Casper PhD","Almost Out",133,5,512,403,1,3,3
+"442","Jazmin Harvey","Loyal",535,5,34,874,5,3,5
+"443","Jeanette Lind","First Grade",555,10,41,1062,5,5,5
+"444","Jeanie Berge","Almost Out",124,4,539,570,1,2,4
+"445","Jensen Cormier Jr.","Loyal",334,5,236,556,3,3,4
+"446","Jerald Gaylord","Likely to be Loyal",422,4,173,275,4,2,2
+"447","Jerald Hintz","Likely to be Loyal",412,3,179,286,4,1,2
+"448","Jeraldine Waelchi","Likely to be Loyal",412,3,146,359,4,1,2
+"449","Jeremie Wehner V","Loyal",553,8,50,488,5,5,3
+"450","Jerold Sporer","Loyal",443,6,135,506,4,4,3
+"451","Jerrell Wisozk I","First Grade",545,7,113,764,5,4,5
+"452","Jessica Connelly","Loyal",243,7,352,438,2,4,3
+"453","Jessica Koepp MD","Loyal",533,5,88,450,5,3,3
+"454","Jessy Emard","Loyal",344,7,281,653,3,4,4
+"455","Jevon Rutherford","Getting less Frequent",212,2,391,268,2,1,2
+"456","Jimmie Herzog","Loyal",333,5,265,401,3,3,3
+"457","Joana Crist","Others",524,4,67,552,5,2,4
+"458","Joana Kemmer DDS","First Grade",455,8,153,806,4,5,5
+"459","Joann Yundt","Dont'show up at all",111,2,604,223,1,1,1
+"460","Joe McDermott","Getting less Frequent",212,3,390,317,2,1,2
+"461","Joelle Deckow","Loyal",533,5,101,479,5,3,3
+"462","Johnathon Schimmel","Require Assistance",223,4,455,436,2,2,3
+"463","Johney Mayer","Likely to be Loyal",311,3,272,101,3,1,1
+"464","Josef Lemke","Loyal",533,5,48,391,5,3,3
+"465","Josephus Bradtke DVM","Almost Out",224,4,374,520,2,2,4
+"466","Josette Bailey","Loyal",234,5,449,663,2,3,4
+"467","Juana Bogan","Almost Out",133,5,505,416,1,3,3
+"468","Judyth Lueilwitz","Almost Out",134,5,662,552,1,3,4
+"469","Jules Harber","Dont'show up at all",111,2,673,77,1,1,1
+"470","Jules Jacobi","Loyal",255,9,453,935,2,5,5
+"471","Julia Koch","Likely to be Loyal",431,5,171,236,4,3,1
+"472","Juliana Sipes","Likely to be Loyal",322,4,190,314,3,2,2
+"473","Juliet Terry","Getting less Frequent",211,2,410,218,2,1,1
+"474","Julisa Halvorson","First Grade",455,12,127,987,4,5,5
+"475","Kadence Morissette","First Grade",444,7,144,613,4,4,4
+"476","Kalvin Prosacco","First Grade",445,7,129,751,4,4,5
+"477","Kamren Moen","Getting less Frequent",212,3,336,274,2,1,2
+"478","Kamron Halvorson","Loyal",255,8,403,829,2,5,5
+"479","Karan Weber DVM","Likely to be Loyal",522,4,67,276,5,2,2
+"480","Karen Harvey","Likely to be Loyal",321,4,249,229,3,2,1
+"481","Karlie Treutel","Likely to be Loyal",532,5,61,318,5,3,2
+"482","Karon Torphy","Loyal",234,5,398,554,2,3,4
+"483","Karren Funk","Getting less Frequent",212,3,449,353,2,1,2
+"484","Karren Schuppe","Loyal",244,6,381,549,2,4,4
+"485","Katlyn Mann","Loyal",345,7,297,698,3,4,5
+"486","Katy King","Loyal",344,6,246,653,3,4,4
+"487","Kelsey Pollich","Likely to be Loyal",513,3,48,473,5,1,3
+"488","Kem Medhurst II","Likely to be Loyal",322,4,287,275,3,2,2
+"489","Kendal Wiegand","First Grade",445,6,137,712,4,4,5
+"490","Kendrick Boyle","Likely to be Loyal",522,4,8,347,5,2,2
+"491","Kenny Wisozk","Loyal",344,6,182,630,3,4,4
+"492","Kenton Dickens","Almost Out",155,8,575,872,1,5,5
+"493","Keri Schuppe MD","Loyal",334,5,206,528,3,3,4
+"494","Keri Williamson","First Grade",455,9,180,741,4,5,5
+"495","Kingston Hayes","Likely to be Loyal",312,3,190,347,3,1,2
+"496","Kingston Waelchi","Dont'show up at all",112,3,533,292,1,1,2
+"497","Kittie Dare","Likely to be Loyal",323,4,233,441,3,2,3
+"498","Kizzy Doyle","First Grade",455,13,168,1488,4,5,5
+"499","Kole Crooks","Likely to be Loyal",532,5,92,332,5,3,2
+"500","Kordell Hartmann","Getting less Frequent",212,2,478,260,2,1,2
+"501","Korey Cronin","Getting less Frequent",211,2,479,82,2,1,1
+"502","Kraig Hayes DDS","First Grade",445,6,171,781,4,4,5
+"503","Krista Hartmann","Dont'show up at all",121,4,695,155,1,2,1
+"504","Kristian Heaney","Others",113,3,681,479,1,1,3
+"505","Kristy Kunde MD","Getting less Frequent",221,4,350,242,2,2,1
+"506","Kyla Orn","Likely to be Loyal",521,4,90,251,5,2,1
+"507","Kylie Kertzmann","Likely to be Loyal",411,2,117,209,4,1,1
+"508","Lacy Connelly MD","Getting less Frequent",221,4,466,113,2,2,1
+"509","Laddie Donnelly Sr.","Getting less Frequent",211,3,352,196,2,1,1
+"510","Laisha VonRueden","First Grade",555,9,27,1003,5,5,5
+"511","Lakeshia Harris","Almost Out",142,7,549,309,1,4,2
+"512","Lane Roberts","Loyal",234,5,372,585,2,3,4
+"513","Lani Dicki MD","Others",542,6,112,356,5,4,2
+"514","Lashawn Hoppe","Loyal",233,5,469,437,2,3,3
+"515","Lassie Lindgren","First Grade",555,8,63,775,5,5,5
+"516","Latesha Bernhard","Loyal",355,8,195,724,3,5,5
+"517","Latifah Carter","Others",424,4,146,601,4,2,4
+"518","Latoya Stanton","First Grade",555,10,21,814,5,5,5
+"519","Latrice Stokes","Others",324,4,181,574,3,2,4
+"520","Laurel Morar","Likely to be Loyal",431,5,172,230,4,3,1
+"521","Laurene Considine","Loyal",255,9,311,1008,2,5,5
+"522","Lavern Pfeffer DDS","Almost Out",224,4,426,632,2,2,4
+"523","Leala Schuppe MD","Loyal",344,6,193,512,3,4,4
+"524","Lennon Hilll","Loyal",244,6,431,621,2,4,4
+"525","Leone Fritsch","Require Assistance",222,4,359,375,2,2,2
+"526","Leonel Rippin","Loyal",234,5,307,515,2,3,4
+"527","Lesa Hane","Likely to be Loyal",511,3,77,157,5,1,1
+"528","Lesta Carter","Loyal",255,9,427,773,2,5,5
+"529","Lesta Davis","Likely to be Loyal",311,3,239,152,3,1,1
+"530","Letitia Stokes","First Grade",454,8,175,536,4,5,4
+"531","Lexi Altenwerth","Almost Out",224,4,399,655,2,2,4
+"532","Leyla Dietrich","Loyal",433,5,118,485,4,3,3
+"533","Lidie Gislason","Likely to be Loyal",512,3,94,285,5,1,2
+"534","Lilah Blanda PhD","Others",342,6,202,358,3,4,2
+"535","Lillianna Larkin","First Grade",455,9,148,1011,4,5,5
+"536","Lim Langworth","Loyal",533,5,106,424,5,3,3
+"537","Lindy Pagac","Require Assistance",222,4,446,306,2,2,2
+"538","Link Carroll MD","Almost Out",144,7,494,648,1,4,4
+"539","Link Orn","Dont'show up at all",111,1,955,61,1,1,1
+"540","Lionel Marquardt","Dont'show up at all",111,1,976,133,1,1,1
+"541","Lisandro Kassulke","Loyal",235,5,312,730,2,3,5
+"542","Lisandro Swift","Loyal",543,6,97,479,5,4,3
+"543","Lisha Hayes","Likely to be Loyal",522,4,105,340,5,2,2
+"544","Lissa White","Loyal",243,6,417,492,2,4,3
+"545","Livia Pfeffer","Getting less Frequent",211,2,436,139,2,1,1
+"546","Lockie Fahey","Dont'show up at all",112,3,509,284,1,1,2
+"547","Lollie Conroy","Dont'show up at all",111,2,578,94,1,1,1
+"548","Lollie Heaney","Dont'show up at all",111,1,568,28,1,1,1
+"549","Londyn Reinger","First Grade",555,9,45,782,5,5,5
+"550","Lorean Stokes DVM","First Grade",555,9,82,708,5,5,5
+"551","Lorelai Parisian","Loyal",355,9,186,788,3,5,5
+"552","Loretta Lueilwitz","Dont'show up at all",111,1,651,79,1,1,1
+"553","Loretto Romaguera","Likely to be Loyal",511,2,84,237,5,1,1
+"554","Lott Larkin","Loyal",243,6,472,437,2,4,3
+"555","Louis Toy I","First Grade",545,6,48,711,5,4,5
+"556","Lovisa Wilkinson","Getting less Frequent",212,3,471,311,2,1,2
+"557","Loy Olson Sr.","First Grade",444,6,151,560,4,4,4
+"558","Lucia Flatley","Require Assistance",222,4,309,289,2,2,2
+"559","Luciano Kling","First Grade",544,6,101,587,5,4,4
+"560","Luda Kihn","Require Assistance",222,4,304,371,2,2,2
+"561","Luka Langosh","Require Assistance",223,4,412,482,2,2,3
+"562","Lute Batz DVM","Require Assistance",223,4,333,505,2,2,3
+"563","Luverne Rodriguez DDS","Loyal",344,6,279,582,3,4,4
+"564","Lydia Willms","First Grade",455,11,116,713,4,5,5
+"565","Lyn Parker","Loyal",534,5,68,639,5,3,4
+"566","Lyndon McClure","Loyal",334,5,270,575,3,3,4
+"567","Lyndsey Heidenreich","Loyal",255,9,384,1050,2,5,5
+"568","Mabell Lemke","First Grade",444,7,164,583,4,4,4
+"569","Mac Kertzmann","Likely to be Loyal",513,3,43,438,5,1,3
+"570","Madison Koelpin","Likely to be Loyal",313,3,231,388,3,1,3
+"571","Madyson Bergnaum PhD","First Grade",555,8,85,965,5,5,5
+"572","Mae O'Kon","Likely to be Loyal",411,3,168,249,4,1,1
+"573","Maebell Terry","Likely to be Loyal",522,4,107,258,5,2,2
+"574","Magdalen Ward","Dont'show up at all",111,2,533,184,1,1,1
+"575","Mahlon Pfeffer","Dont'show up at all",111,3,507,166,1,1,1
+"576","Makenzie Hintz","Dont'show up at all",111,2,497,252,1,1,1
+"577","Malaya White","First Grade",544,6,86,546,5,4,4
+"578","Malcolm Bogan","Loyal",434,5,140,565,4,3,4
+"579","Malcolm Heathcote","Likely to be Loyal",523,4,9,431,5,2,3
+"580","Malcolm Medhurst","Likely to be Loyal",322,4,275,350,3,2,2
+"581","Manilla Braun","Others",214,3,372,513,2,1,4
+"582","Mansfield Boyle","Loyal",244,6,465,640,2,4,4
+"583","Maralyn Greenfelder","Likely to be Loyal",423,4,162,401,4,2,3
+"584","Marcello Torphy Jr.","Loyal",543,6,4,464,5,4,3
+"585","Marci Nader","Loyal",543,6,48,494,5,4,3
+"586","Margarette Eichmann DVM","Likely to be Loyal",312,3,220,345,3,1,2
+"587","Margarita O'Reilly","Others",424,4,127,649,4,2,4
+"588","Marguerite Heaney","Likely to be Loyal",522,4,114,265,5,2,2
+"589","Mariano Lueilwitz","Loyal",244,6,400,540,2,4,4
+"590","Marissa Goyette","First Grade",445,7,120,693,4,4,5
+"591","Marla Sanford","First Grade",554,9,93,637,5,5,4
+"592","Marlene Runolfsson","Loyal",334,5,230,554,3,3,4
+"593","Marrion Emmerich IV","Loyal",443,7,149,490,4,4,3
+"594","Marty Wisozk","Require Assistance",232,5,354,347,2,3,2
+"595","Marvin Wisozk","Dont'show up at all",112,3,553,356,1,1,2
+"596","Masao Deckow","Likely to be Loyal",511,3,6,239,5,1,1
+"597","Mason Rodriguez","Getting less Frequent",212,3,469,270,2,1,2
+"598","Mathilda Farrell","Loyal",345,7,242,736,3,4,5
+"599","Matthew Schmeler","Likely to be Loyal",523,4,110,422,5,2,3
+"600","Maudie Waelchi","Dont'show up at all",112,2,720,277,1,1,2
+"601","Mauricio VonRueden","Almost Out",132,5,509,371,1,3,2
+"602","Maxie Steuber","Likely to be Loyal",511,2,113,181,5,1,1
+"603","Melbourne Johns","Likely to be Loyal",412,3,173,260,4,1,2
+"604","Melvin Schmidt","First Grade",545,6,73,673,5,4,5
+"605","Mendy Ledner","Others",424,4,142,523,4,2,4
+"606","Mervin Pfeffer V","Loyal",333,5,222,463,3,3,3
+"607","Mervyn Vandervort","Dont'show up at all",112,3,723,294,1,1,2
+"608","Michell Gerlach","Loyal",344,7,279,654,3,4,4
+"609","Miguelangel Dach","Likely to be Loyal",522,4,16,316,5,2,2
+"610","Mila Gibson","Almost Out",124,4,486,620,1,2,4
+"611","Milissa Batz MD","Others",524,4,75,643,5,2,4
+"612","Mimi Goldner","Require Assistance",223,4,468,404,2,2,3
+"613","Miss Akeelah Walsh PhD","First Grade",445,7,160,779,4,4,5
+"614","Miss Aleen Kunze","Getting less Frequent",212,2,396,320,2,1,2
+"615","Miss Anaya Kerluke","Dont'show up at all",111,1,687,104,1,1,1
+"616","Miss Chante Stoltenberg PhD","Loyal",245,6,316,805,2,4,5
+"617","Miss Cristi Quitzon PhD","Loyal",433,5,152,425,4,3,3
+"618","Miss Dorotha Kuvalis PhD","First Grade",545,7,55,958,5,4,5
+"619","Miss Ela Treutel","Getting less Frequent",212,3,397,336,2,1,2
+"620","Miss Eugenia Barton","Loyal",355,9,218,753,3,5,5
+"621","Miss Evita Howe MD","Almost Out",144,6,632,579,1,4,4
+"622","Miss Fronnie Schaefer DDS","First Grade",544,6,51,573,5,4,4
+"623","Miss Goldie Smitham","Almost Out",134,5,498,631,1,3,4
+"624","Miss Haleigh Wilkinson","Loyal",355,10,198,900,3,5,5
+"625","Miss Halle Davis DDS","First Grade",454,8,132,665,4,5,4
+"626","Miss Jonnie Veum","First Grade",455,8,148,770,4,5,5
+"627","Miss Jovita Reinger","Likely to be Loyal",311,3,200,243,3,1,1
+"628","Miss Kacie Miller DVM","First Grade",455,10,169,1027,4,5,5
+"629","Miss Katelynn Lebsack DVM","Loyal",543,7,99,382,5,4,3
+"630","Miss Katherine Balistreri DDS","Likely to be Loyal",322,4,288,357,3,2,2
+"631","Miss Kesha Daniel","Loyal",543,6,79,447,5,4,3
+"632","Miss Lacey Sanford PhD","Loyal",334,5,284,652,3,3,4
+"633","Miss Latosha O'Keefe","Loyal",345,6,197,854,3,4,5
+"634","Miss Lovie Keeling DVM","Likely to be Loyal",532,5,103,348,5,3,2
+"635","Miss Madison Lehner DVM","Almost Out",143,6,583,475,1,4,3
+"636","Miss Mistie Torp MD","Others",542,6,103,303,5,4,2
+"637","Miss Nealy Stanton","Getting less Frequent",211,3,441,248,2,1,1
+"638","Miss Tillie Crooks DVM","First Grade",445,7,164,709,4,4,5
+"639","Miss Velma Schulist","Getting less Frequent",211,3,464,224,2,1,1
+"640","Mittie Jacobs PhD","Likely to be Loyal",422,4,119,292,4,2,2
+"641","Mitzi Bergstrom","Getting less Frequent",211,3,375,188,2,1,1
+"642","Moe Sawayn","Dont'show up at all",111,2,522,176,1,1,1
+"643","Mohammad Smith","Loyal",344,6,201,600,3,4,4
+"644","Monique Reichel","Almost Out",122,4,532,360,1,2,2
+"645","Mont Mertz","Likely to be Loyal",412,3,125,261,4,1,2
+"646","Morton O'Connell","Getting less Frequent",212,3,409,258,2,1,2
+"647","Mozell Greenfelder DDS","Loyal",533,5,37,417,5,3,3
+"648","Mr. Alessandro Weissnat DDS","First Grade",444,7,174,591,4,4,4
+"649","Mr. Almer Osinski","First Grade",455,10,123,862,4,5,5
+"650","Mr. Armin Klocko IV","Almost Out",143,6,482,492,1,4,3
+"651","Mr. Brion Stark Sr.","Loyal",355,8,229,852,3,5,5
+"652","Mr. Cayden Waters","Likely to be Loyal",421,4,120,232,4,2,1
+"653","Mr. Celestino Bosco","First Grade",445,7,133,716,4,4,5
+"654","Mr. Christ Zieme MD","First Grade",544,7,111,510,5,4,4
+"655","Mr. Cletus Corwin","Dont'show up at all",111,2,558,81,1,1,1
+"656","Mr. Colin Prohaska","Loyal",245,7,479,700,2,4,5
+"657","Mr. Dandre Nolan I","Dont'show up at all",111,1,951,30,1,1,1
+"658","Mr. Demetric Franecki","Likely to be Loyal",423,4,149,387,4,2,3
+"659","Mr. Edw Frami","First Grade",555,10,44,868,5,5,5
+"660","Mr. Elian Vandervort Jr.","Likely to be Loyal",332,5,195,332,3,3,2
+"661","Mr. Erin Zboncak IV","First Grade",545,6,26,895,5,4,5
+"662","Mr. Fletcher Hudson","Dont'show up at all",111,2,600,165,1,1,1
+"663","Mr. Fount Towne I","First Grade",544,6,8,540,5,4,4
+"664","Mr. Francisco Kiehn","Dont'show up at all",111,2,620,133,1,1,1
+"665","Mr. Fredric Funk III","Getting less Frequent",211,3,439,228,2,1,1
+"666","Mr. Harris Pollich","Loyal",535,5,21,734,5,3,5
+"667","Mr. Hosea Schiller","Loyal",255,9,410,840,2,5,5
+"668","Mr. Hosie Howell PhD","Loyal",233,5,421,496,2,3,3
+"669","Mr. Hunter Botsford Jr.","Dont'show up at all",112,2,613,267,1,1,2
+"670","Mr. Hurley Brekke","Getting less Frequent",211,2,444,175,2,1,1
+"671","Mr. Jeff Denesik","Likely to be Loyal",322,4,235,326,3,2,2
+"672","Mr. Jeramiah Cronin","First Grade",544,6,6,547,5,4,4
+"673","Mr. Jimmy Mayert PhD","Almost Out",123,4,512,382,1,2,3
+"674","Mr. Junior Wintheiser II","Others",214,3,429,529,2,1,4
+"675","Mr. Kenji Cormier","Likely to be Loyal",412,3,177,359,4,1,2
+"676","Mr. Kolten Wyman Jr.","Almost Out",135,5,495,668,1,3,5
+"677","Mr. Lary Champlin","First Grade",455,14,124,1074,4,5,5
+"678","Mr. Lillard McGlynn V","Dont'show up at all",111,2,588,96,1,1,1
+"679","Mr. Lon Witting Jr.","Likely to be Loyal",313,3,295,413,3,1,3
+"680","Mr. Lupe Kohler","Loyal",245,7,299,716,2,4,5
+"681","Mr. Manuel DuBuque","First Grade",455,9,126,927,4,5,5
+"682","Mr. Marcelo Wunsch MD","Getting less Frequent",211,1,446,52,2,1,1
+"683","Mr. Marcus Langosh","Likely to be Loyal",512,3,98,363,5,1,2
+"684","Mr. Marquise Swaniawski MD","Almost Out",155,8,569,799,1,5,5
+"685","Mr. Mekhi Goyette","Require Assistance",222,4,416,350,2,2,2
+"686","Mr. Michal Murphy","Loyal",434,5,136,548,4,3,4
+"687","Mr. Michale Howe DVM","Loyal",255,8,430,740,2,5,5
+"688","Mr. Mikeal Block","Almost Out",132,5,526,323,1,3,2
+"689","Mr. Owens Gaylord","Likely to be Loyal",411,3,123,172,4,1,1
+"690","Mr. Paulo Stoltenberg","Dont'show up at all",112,3,487,308,1,1,2
+"691","Mr. Ray Stanton III","First Grade",455,11,144,816,4,5,5
+"692","Mr. Rohan Wolf","Almost Out",145,6,502,820,1,4,5
+"693","Mr. Saverio Weimann II","Loyal",334,5,263,534,3,3,4
+"694","Mr. Semaj Sauer","First Grade",555,8,31,806,5,5,5
+"695","Mr. Tad Johnson","Loyal",355,10,206,1184,3,5,5
+"696","Mr. Tegan Farrell MD","Likely to be Loyal",332,5,295,378,3,3,2
+"697","Mr. Thad Nader Sr.","Loyal",333,5,282,480,3,3,3
+"698","Mr. Torry Bogan I","Likely to be Loyal",511,2,107,195,5,1,1
+"699","Mr. Tripp Batz PhD","Loyal",333,5,291,446,3,3,3
+"700","Mr. Vito Ernser II","Loyal",533,5,13,461,5,3,3
+"701","Mr. Wendel Hintz","First Grade",545,6,87,798,5,4,5
+"702","Mr. Wilkie Moore MD","Dont'show up at all",111,2,836,244,1,1,1
+"703","Mr. Zackery Armstrong","Require Assistance",223,4,341,490,2,2,3
+"704","Mr. Zakary Gleichner II","First Grade",544,7,43,615,5,4,4
+"705","Mrs. Alysa Cummings","First Grade",555,9,1,876,5,5,5
+"706","Mrs. Anice O'Hara DDS","Loyal",243,7,360,469,2,4,3
+"707","Mrs. Astrid Bayer PhD","First Grade",455,8,141,687,4,5,5
+"708","Mrs. Breann Harris","Loyal",234,5,310,599,2,3,4
+"709","Mrs. Cali Considine","Loyal",233,5,349,416,2,3,3
+"710","Mrs. Carolann Anderson PhD","Dont'show up at all",111,3,590,217,1,1,1
+"711","Mrs. Charolette McDermott MD","Likely to be Loyal",411,1,139,82,4,1,1
+"712","Mrs. Chiquita Jacobs","Likely to be Loyal",421,4,158,144,4,2,1
+"713","Mrs. Cleone Hagenes DDS","Dont'show up at all",112,3,537,331,1,1,2
+"714","Mrs. Danika Schulist","Loyal",233,5,443,495,2,3,3
+"715","Mrs. Delisa Kilback","Loyal",333,5,263,476,3,3,3
+"716","Mrs. Hildur Mante","Others",213,3,431,386,2,1,3
+"717","Mrs. Ila Leuschke DVM","Loyal",243,6,392,396,2,4,3
+"718","Mrs. Janel Koepp DVM","Likely to be Loyal",321,4,285,253,3,2,1
+"719","Mrs. Jaquelin Weber DVM","Likely to be Loyal",422,4,147,332,4,2,2
+"720","Mrs. Jerilynn Schulist","First Grade",445,7,116,888,4,4,5
+"721","Mrs. Kelcie Schimmel","First Grade",444,7,142,536,4,4,4
+"722","Mrs. Kyrie Funk","Almost Out",134,5,502,520,1,3,4
+"723","Mrs. Laila Bayer","Others",524,4,72,516,5,2,4
+"724","Mrs. Lois Russel","Dont'show up at all",111,2,632,166,1,1,1
+"725","Mrs. Lucetta Auer","Likely to be Loyal",311,3,229,128,3,1,1
+"726","Mrs. Madelyn Hermiston","Likely to be Loyal",423,4,122,446,4,2,3
+"727","Mrs. Makenna Bernier PhD","Require Assistance",223,4,410,386,2,2,3
+"728","Mrs. Malaya Russel","Likely to be Loyal",511,3,93,209,5,1,1
+"729","Mrs. Marti Johnston","Loyal",233,5,377,409,2,3,3
+"730","Mrs. Maura Schamberger","Loyal",333,5,266,434,3,3,3
+"731","Mrs. Melany Mitchell DDS","Dont'show up at all",111,1,681,12,1,1,1
+"732","Mrs. Michal Feil DVM","Loyal",233,5,463,390,2,3,3
+"733","Mrs. Noma Hessel PhD","Loyal",245,7,298,815,2,4,5
+"734","Mrs. Oneta Lebsack","Loyal",345,7,258,777,3,4,5
+"735","Mrs. Trudy Rath","Loyal",244,6,387,547,2,4,4
+"736","Mrs. Vernie Ryan MD","Loyal",443,6,159,422,4,4,3
+"737","Mrs. Vivien Bauch","First Grade",545,7,109,676,5,4,5
+"738","Ms. Amaris Williamson MD","Likely to be Loyal",332,5,241,289,3,3,2
+"739","Ms. Amira Gutkowski DDS","Dont'show up at all",111,2,576,191,1,1,1
+"740","Ms. Arletta Jast PhD","First Grade",445,7,130,720,4,4,5
+"741","Ms. Brea Nienow DDS","First Grade",544,6,90,580,5,4,4
+"742","Ms. Delpha King","First Grade",555,12,43,1233,5,5,5
+"743","Ms. Elda Schmeler","First Grade",455,8,129,744,4,5,5
+"744","Ms. Erica Gottlieb","Loyal",255,8,340,829,2,5,5
+"745","Ms. Ermine Krajcik","Dont'show up at all",111,1,595,106,1,1,1
+"746","Ms. Forest Hartmann DVM","Dont'show up at all",112,3,538,311,1,1,2
+"747","Ms. Giada Weissnat","Others",542,6,102,346,5,4,2
+"748","Ms. Gracelyn Dare","First Grade",544,6,112,548,5,4,4
+"749","Ms. Gracie Willms","Almost Out",124,4,504,556,1,2,4
+"750","Ms. Grecia Schultz","Others",442,6,164,357,4,4,2
+"751","Ms. Gussie Bartoletti","First Grade",455,8,172,885,4,5,5
+"752","Ms. Hayleigh Swaniawski DDS","Likely to be Loyal",323,4,289,489,3,2,3
+"753","Ms. Hessie Gleichner","Almost Out",242,6,414,368,2,4,2
+"754","Ms. Hollie Crooks","Almost Out",133,5,493,400,1,3,3
+"755","Ms. Iliana O'Conner","Loyal",344,6,194,613,3,4,4
+"756","Ms. Jacklyn Casper","Loyal",533,5,105,415,5,3,3
+"757","Ms. Katherine Schroeder","Loyal",244,6,407,566,2,4,4
+"758","Ms. Katrina Barton PhD","First Grade",445,7,136,774,4,4,5
+"759","Ms. Kelis Rau MD","Loyal",534,5,86,537,5,3,4
+"760","Ms. Leaner Jacobs PhD","Almost Out",123,4,647,458,1,2,3
+"761","Ms. Liliana Haley","Loyal",244,7,473,589,2,4,4
+"762","Ms. Maebell Reinger DVM","Loyal",245,6,443,673,2,4,5
+"763","Ms. Marolyn Walsh","Likely to be Loyal",511,3,90,180,5,1,1
+"764","Ms. Merrilee Lueilwitz","Dont'show up at all",111,1,699,185,1,1,1
+"765","Ms. Nada Barton PhD","First Grade",544,7,114,576,5,4,4
+"766","Ms. Oralia Kilback","Loyal",343,6,182,480,3,4,3
+"767","Ms. Penni Corkery","First Grade",544,6,98,620,5,4,4
+"768","Ms. Peyton Larson DVM","Loyal",244,6,433,664,2,4,4
+"769","Ms. Sarita Heidenreich DVM","Require Assistance",223,4,305,462,2,2,3
+"770","Ms. Starr Corwin DDS","Likely to be Loyal",421,4,171,228,4,2,1
+"771","Ms. Val McKenzie PhD","Likely to be Loyal",422,4,122,380,4,2,2
+"772","Ms. Valorie Kling","Loyal",433,5,155,421,4,3,3
+"773","Ms. Zola Nolan","Likely to be Loyal",322,4,224,375,3,2,2
+"774","Murl Dicki","Likely to be Loyal",411,2,178,233,4,1,1
+"775","Murl Wilkinson II","First Grade",445,7,135,936,4,4,5
+"776","Murray Harvey","Loyal",434,5,145,646,4,3,4
+"777","Myer Stokes","Almost Out",145,7,491,826,1,4,5
+"778","Mykel Johnson","Loyal",353,8,276,453,3,5,3
+"779","Myrle Krajcik","Loyal",245,6,335,937,2,4,5
+"780","Myrtis Larkin DDS","Likely to be Loyal",423,4,132,423,4,2,3
+"781","Naima Treutel","Loyal",434,5,150,613,4,3,4
+"782","Nan O'Connell","Likely to be Loyal",411,2,143,79,4,1,1
+"783","Nathaly Streich","Almost Out",145,6,525,681,1,4,5
+"784","Nathanael Wisozk","Dont'show up at all",112,3,636,343,1,1,2
+"785","Neppie Armstrong","Dont'show up at all",111,1,607,219,1,1,1
+"786","Nery Ankunding PhD","Almost Out",123,4,574,425,1,2,3
+"787","Nevin Boehm","First Grade",545,6,86,694,5,4,5
+"788","Nico Dickinson","Almost Out",154,8,616,569,1,5,4
+"789","Nigel Leannon II","Loyal",534,5,63,579,5,3,4
+"790","Nikita Becker","Likely to be Loyal",423,4,140,462,4,2,3
+"791","Nikolai Welch MD","Likely to be Loyal",321,4,192,212,3,2,1
+"792","Nikolas Shanahan","Likely to be Loyal",332,5,264,268,3,3,2
+"793","Nobie Hermann","Almost Out",122,4,597,353,1,2,2
+"794","Noma Dare MD","Almost Out",224,4,475,597,2,2,4
+"795","Nyree Walker","Dont'show up at all",111,3,550,211,1,1,1
+"796","Odelia Rippin","Almost Out",144,6,488,585,1,4,4
+"797","Odessa Haag","Almost Out",134,5,586,641,1,3,4
+"798","Odie Jacobs","Dont'show up at all",112,3,484,353,1,1,2
+"799","Odie Lakin","Getting less Frequent",211,2,442,132,2,1,1
+"800","Odis Schoen","Loyal",434,5,150,512,4,3,4
+"801","Olaf Witting","Likely to be Loyal",311,2,191,143,3,1,1
+"802","Olen Steuber DVM","Dont'show up at all",111,1,520,39,1,1,1
+"803","Olena Kessler","Likely to be Loyal",311,2,214,163,3,1,1
+"804","Oley Schroeder I","Loyal",244,6,402,632,2,4,4
+"805","Olof Swift","Loyal",533,5,88,453,5,3,3
+"806","Omie Cummerata","Dont'show up at all",121,4,519,220,1,2,1
+"807","Ophelia Ernser","Loyal",344,6,281,622,3,4,4
+"808","Orpha Bernhard","First Grade",455,9,153,955,4,5,5
+"809","Orville Lemke III","Likely to be Loyal",311,3,215,147,3,1,1
+"810","Ossie Schaden PhD","First Grade",544,7,44,600,5,4,4
+"811","Ottis Wiza","Likely to be Loyal",321,4,244,242,3,2,1
+"812","Pansy Bergstrom","Loyal",533,5,88,394,5,3,3
+"813","Parker Bailey DVM","Almost Out",143,7,852,476,1,4,3
+"814","Pat Nitzsche PhD","Likely to be Loyal",422,4,162,306,4,2,2
+"815","Patience Ferry","Loyal",344,6,249,644,3,4,4
+"816","Paulo Torphy","Dont'show up at all",111,2,892,219,1,1,1
+"817","Payten Morissette","Likely to be Loyal",313,3,296,466,3,1,3
+"818","Pearl Schmidt","Loyal",234,5,446,536,2,3,4
+"819","Perley Renner","Loyal",243,6,427,406,2,4,3
+"820","Pershing Johnston MD","Likely to be Loyal",311,2,296,108,3,1,1
+"821","Pershing Torp II","Dont'show up at all",111,2,490,241,1,1,1
+"822","Peyton Koelpin","Dont'show up at all",111,1,604,89,1,1,1
+"823","Peyton Runolfsson","Likely to be Loyal",422,4,174,335,4,2,2
+"824","Phylis Gaylord","Likely to be Loyal",331,5,210,185,3,3,1
+"825","Pierre Stoltenberg","Dont'show up at all",111,2,618,82,1,1,1
+"826","Pink Murazik","Getting less Frequent",211,2,449,225,2,1,1
+"827","Piper Buckridge","Dont'show up at all",112,3,601,265,1,1,2
+"828","Pleasant Ullrich","Loyal",245,7,319,1089,2,4,5
+"829","Porsche Mayert DDS","Almost Out",144,6,496,515,1,4,4
+"830","Portia Schamberger","First Grade",545,7,49,762,5,4,5
+"831","Posey Metz","Loyal",355,10,183,1060,3,5,5
+"832","Pratt Crooks","Likely to be Loyal",332,5,182,300,3,3,2
+"833","Price Harvey","Getting less Frequent",211,3,411,137,2,1,1
+"834","Princess Hermann PhD","Dont'show up at all",111,1,597,55,1,1,1
+"835","Prudie Kertzmann","First Grade",554,8,88,580,5,5,4
+"836","Quintin Tillman","First Grade",555,9,64,960,5,5,5
+"837","Rafael Mitchell","Others",113,3,550,421,1,1,3
+"838","Raheem Bosco","Likely to be Loyal",421,4,124,182,4,2,1
+"839","Rakeem Harvey","Loyal",255,10,454,809,2,5,5
+"840","Rayna Hagenes PhD","Almost Out",124,4,538,587,1,2,4
+"841","Reanna O'Keefe","First Grade",555,8,35,960,5,5,5
+"842","Rebeca Kling","First Grade",455,8,129,956,4,5,5
+"843","Reggie Leffler","Loyal",233,5,455,413,2,3,3
+"844","Regina Collins","Likely to be Loyal",332,5,234,360,3,3,2
+"845","Rexford Greenholt","Loyal",334,5,196,570,3,3,4
+"846","Reynaldo Davis","Dont'show up at all",112,3,681,358,1,1,2
+"847","Ricci Bins","Dont'show up at all",121,4,535,210,1,2,1
+"848","Rice Prohaska","Others",542,6,71,319,5,4,2
+"849","Rikki Watsica DVM","First Grade",544,7,43,581,5,4,4
+"850","Riley Heller","Likely to be Loyal",423,4,171,446,4,2,3
+"851","Rob Wilderman Sr.","Dont'show up at all",111,1,624,34,1,1,1
+"852","Robbin Herzog","Require Assistance",222,4,366,381,2,2,2
+"853","Robert Satterfield","Likely to be Loyal",422,4,135,317,4,2,2
+"854","Robert Schmeler","Likely to be Loyal",311,3,243,254,3,1,1
+"855","Rochelle Johnson","Loyal",344,7,204,652,3,4,4
+"856","Roger Green","Almost Out",123,4,663,468,1,2,3
+"857","Rolla Hodkiewicz","Almost Out",123,4,564,409,1,2,3
+"858","Rollie Yundt DVM","Others",113,3,600,467,1,1,3
+"859","Roma Daniel","Likely to be Loyal",321,4,229,197,3,2,1
+"860","Roma Rath","Almost Out",143,6,490,420,1,4,3
+"861","Romaine McCullough","Loyal",333,5,232,405,3,3,3
+"862","Romie Upton","First Grade",454,8,145,622,4,5,4
+"863","Ronan McLaughlin","Likely to be Loyal",323,4,289,496,3,2,3
+"864","Roni Carter","Likely to be Loyal",422,4,128,365,4,2,2
+"865","Ronin Beatty Jr.","Likely to be Loyal",423,4,146,434,4,2,3
+"866","Rosanne Maggio","First Grade",544,7,67,597,5,4,4
+"867","Rosario Boyle","Loyal",234,5,417,512,2,3,4
+"868","Rose Kuphal","Likely to be Loyal",523,4,69,400,5,2,3
+"869","Rosevelt Murazik DDS","Loyal",433,5,139,447,4,3,3
+"870","Rosina Abbott","Loyal",244,7,339,652,2,4,4
+"871","Ruel Ruecker","Loyal",433,5,176,436,4,3,3
+"872","Russell Boyle","Dont'show up at all",112,2,614,265,1,1,2
+"873","Ruthe Macejkovic MD","Loyal",255,9,373,805,2,5,5
+"874","Ryland Predovic","Loyal",234,5,436,665,2,3,4
+"875","Sadie Upton","Others",424,4,151,541,4,2,4
+"876","Saint Doyle","Loyal",344,6,190,558,3,4,4
+"877","Samira Medhurst","Loyal",245,7,430,826,2,4,5
+"878","Santana Bradtke","First Grade",455,8,152,732,4,5,5
+"879","Savion Rohan","First Grade",555,10,84,1118,5,5,5
+"880","Schuyler Volkman","First Grade",454,10,160,658,4,5,4
+"881","Scottie Beahan PhD","Others",314,3,275,538,3,1,4
+"882","Seaborn Bogisich III","Likely to be Loyal",413,3,178,459,4,1,3
+"883","Shakira Stokes","Loyal",533,5,75,438,5,3,3
+"884","Shane Haley","Loyal",433,5,157,424,4,3,3
+"885","Shania Stamm DDS","Loyal",355,9,188,997,3,5,5
+"886","Shantel Jenkins","Almost Out",123,4,724,388,1,2,3
+"887","Shari Rowe PhD","Loyal",234,5,426,665,2,3,4
+"888","Sharyn Barrows","Others",442,6,155,292,4,4,2
+"889","Shaun Rempel","Likely to be Loyal",423,4,180,427,4,2,3
+"890","Shea Feil","First Grade",444,6,176,588,4,4,4
+"891","Shea Gerlach","Loyal",345,7,201,760,3,4,5
+"892","Shellie Brekke III","Others",113,3,591,384,1,1,3
+"893","Shelton Hudson","First Grade",455,8,153,867,4,5,5
+"894","Sherlyn Gutmann","First Grade",555,9,19,726,5,5,5
+"895","Shirl Keebler","Likely to be Loyal",522,4,90,377,5,2,2
+"896","Shirl Kuvalis","Loyal",333,5,276,450,3,3,3
+"897","Shirl Wisozk","Almost Out",122,4,630,363,1,2,2
+"898","Shirlie Nikolaus","Loyal",345,7,210,688,3,4,5
+"899","Shoji Wintheiser III","Likely to be Loyal",432,5,140,329,4,3,2
+"900","Skylar Hoeger","Likely to be Loyal",321,4,282,255,3,2,1
+"901","Sol Zboncak","Dont'show up at all",111,3,508,88,1,1,1
+"902","Somer Turcotte","Loyal",355,10,190,1018,3,5,5
+"903","Sonny Dickens","Others",342,6,250,362,3,4,2
+"904","Soren Gleason","First Grade",555,9,103,1061,5,5,5
+"905","Stafford Willms","Dont'show up at all",112,3,506,295,1,1,2
+"906","Starling Welch","First Grade",444,7,128,590,4,4,4
+"907","Stefani Kshlerin","Loyal",344,7,186,520,3,4,4
+"908","Stephaine Graham","Others",524,4,105,609,5,2,4
+"909","Stetson Ferry DVM","Dont'show up at all",111,3,500,237,1,1,1
+"910","Susannah Bernier","First Grade",545,6,33,754,5,4,5
+"911","Suzann Koss","Others",342,6,288,353,3,4,2
+"912","Suzette Hartmann","Loyal",343,6,291,427,3,4,3
+"913","Suzette Pollich","Require Assistance",223,4,335,395,2,2,3
+"914","Sydell West","Loyal",344,6,191,642,3,4,4
+"915","Sylva Littel","First Grade",445,7,178,778,4,4,5
+"916","Symone McClure","Likely to be Loyal",323,4,207,449,3,2,3
+"917","Tallie Gleason","Likely to be Loyal",312,3,227,293,3,1,2
+"918","Tamia Hills","Loyal",235,5,443,694,2,3,5
+"919","Tamia Langworth","Dont'show up at all",111,1,576,103,1,1,1
+"920","Tamika Labadie","First Grade",445,7,138,839,4,4,5
+"921","Tamisha Crooks","First Grade",544,6,11,627,5,4,4
+"922","Tarik Marvin Jr.","Almost Out",144,6,585,510,1,4,4
+"923","Tate Turcotte","Others",113,3,516,394,1,1,3
+"924","Tawanda Balistreri MD","Likely to be Loyal",523,4,103,393,5,2,3
+"925","Taylor Crist","Loyal",344,6,261,643,3,4,4
+"926","Tegan O'Conner","Likely to be Loyal",411,2,177,199,4,1,1
+"927","Tera Collins","Dont'show up at all",112,3,546,324,1,1,2
+"928","Texas Keebler","Almost Out",135,5,484,702,1,3,5
+"929","Theo Buckridge","Loyal",543,6,15,446,5,4,3
+"930","Thor Schultz","Likely to be Loyal",512,3,38,274,5,1,2
+"931","Tia Zulauf","First Grade",444,6,149,522,4,4,4
+"932","Tierra Hayes","First Grade",455,8,128,952,4,5,5
+"933","Tilden Hermann","Dont'show up at all",111,2,545,96,1,1,1
+"934","Tisa Mosciski","Likely to be Loyal",321,4,229,159,3,2,1
+"935","Tobie Carroll","Loyal",255,9,344,870,2,5,5
+"936","Toccara Lebsack","Loyal",343,6,209,433,3,4,3
+"937","Tomika Koepp","Loyal",344,6,249,542,3,4,4
+"938","Toney Marvin","Loyal",334,5,212,558,3,3,4
+"939","Tori Bailey","Likely to be Loyal",411,2,129,121,4,1,1
+"940","Torrance Pollich","Likely to be Loyal",512,3,54,377,5,1,2
+"941","Torry Reynolds","First Grade",444,7,135,650,4,4,4
+"942","Tracy Feest","Dont'show up at all",121,4,530,253,1,2,1
+"943","Travis Cartwright","First Grade",555,8,45,713,5,5,5
+"944","Tressie Buckridge DDS","Require Assistance",223,4,404,504,2,2,3
+"945","Trina Gaylord DDS","Likely to be Loyal",312,3,198,264,3,1,2
+"946","Triston Mills","Require Assistance",222,4,332,366,2,2,2
+"947","Trudie Mraz","Loyal",533,5,89,474,5,3,3
+"948","Trudy Stokes","Loyal",255,8,472,855,2,5,5
+"949","True Conroy","Loyal",533,5,40,471,5,3,3
+"950","Tyshawn Witting","Dont'show up at all",111,3,573,208,1,1,1
+"951","Uriah West","Dont'show up at all",111,3,653,195,1,1,1
+"952","Uriel Kuhn","Almost Out",134,5,542,567,1,3,4
+"953","Valencia Keebler DVM","Require Assistance",232,5,328,369,2,3,2
+"954","Vannie Kunze","Loyal",255,9,397,823,2,5,5
+"955","Velda Goyette","Loyal",443,6,151,473,4,4,3
+"956","Venice Smith","Dont'show up at all",111,3,484,219,1,1,1
+"957","Verlene Emmerich","Likely to be Loyal",332,5,240,359,3,3,2
+"958","Verlin Christiansen Sr.","Require Assistance",223,4,389,491,2,2,3
+"959","Verna Hudson","Loyal",535,5,106,789,5,3,5
+"960","Vernell Lockman","Likely to be Loyal",311,1,236,153,3,1,1
+"961","Verona Langosh","Almost Out",133,5,539,492,1,3,3
+"962","Vic Volkman","Loyal",543,6,102,492,5,4,3
+"963","Vick Okuneva","Others",524,4,52,569,5,2,4
+"964","Vinson Tillman","Almost Out",123,4,490,454,1,2,3
+"965","Violette O'Kon","Others",324,4,246,565,3,2,4
+"966","Virgel Grimes","Loyal",435,5,173,675,4,3,5
+"967","Vivian McLaughlin MD","Loyal",244,6,416,574,2,4,4
+"968","Vivienne Medhurst","Others",113,3,517,390,1,1,3
+"969","Von Cassin","Require Assistance",232,5,402,350,2,3,2
+"970","Vonda Connelly","Dont'show up at all",112,2,515,297,1,1,2
+"971","Waldemar Greenholt","Loyal",355,9,267,859,3,5,5
+"972","Wally Nikolaus","Loyal",333,5,181,419,3,3,3
+"973","Warner Kessler","Likely to be Loyal",322,4,290,310,3,2,2
+"974","Warren Osinski","First Grade",455,10,129,1038,4,5,5
+"975","Watt Cremin","Likely to be Loyal",411,1,127,52,4,1,1
+"976","Wellington Runolfsdottir","Likely to be Loyal",311,2,265,39,3,1,1
+"977","Wendi Purdy","Almost Out",134,5,490,560,1,3,4
+"978","Werner Hahn","First Grade",444,6,169,594,4,4,4
+"979","William Sawayn","Loyal",234,5,321,570,2,3,4
+"980","Willian Runte","First Grade",445,7,157,754,4,4,5
+"981","Winifred Hills DDS","Loyal",434,5,180,618,4,3,4
+"982","Winifred Kris","Loyal",243,6,452,459,2,4,3
+"983","Wong Bradtke II","Likely to be Loyal",312,3,287,280,3,1,2
+"984","Woodie Gleichner","Require Assistance",232,5,395,277,2,3,2
+"985","Yaakov Labadie","Dont'show up at all",111,1,582,91,1,1,1
+"986","Yazmin Borer MD","Almost Out",135,5,549,716,1,3,5
+"987","Yessenia Rempel","Likely to be Loyal",421,4,163,236,4,2,1
+"988","Yetta Gorczany MD","Others",442,6,120,378,4,4,2
+"989","Yoselin Bauch","Loyal",255,8,346,760,2,5,5
+"990","Zackery Spinka","Loyal",243,6,387,406,2,4,3
+"991","Zander Lebsack","Loyal",344,6,204,574,3,4,4
+"992","Zechariah Gislason","Loyal",355,9,207,1196,3,5,5
+"993","Zenas Pacocha","Require Assistance",223,4,405,442,2,2,3
+"994","Zeno Lakin","Dont'show up at all",111,1,524,38,1,1,1
+"995","Zillah Koch PhD","Almost Out",124,4,548,516,1,2,4

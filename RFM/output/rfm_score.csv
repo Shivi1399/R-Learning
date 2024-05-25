@@ -1,0 +1,996 @@
+"","customer_id","recency_days","transaction_count","amount","recency_score","frequency_score","monetary_score","rfm_score"
+"1","Abbey O'Reilly DVM",205,6,472,3,4,3,343
+"2","Add Senger",140,3,340,4,1,2,412
+"3","Aden Lesch Sr.",194,4,405,3,2,3,323
+"4","Admiral Senger",132,5,448,4,3,3,433
+"5","Agness O'Keefe",90,9,843,5,5,5,555
+"6","Aileen Barton",84,9,763,5,5,5,555
+"7","Ailene Hermann",281,8,699,3,5,5,355
+"8","Aiyanna Bruen PhD",246,4,157,3,2,1,321
+"9","Ala Schmidt DDS",349,3,363,2,1,2,212
+"10","Alannah Borer",619,4,196,1,2,1,121
+"11","Alcide Rohan",138,5,500,4,3,3,433
+"12","Aleena Berge",102,4,393,5,2,3,523
+"13","Alessandra Heaney",168,1,28,4,1,1,411
+"14","Alethea Blanda",157,4,245,4,2,1,421
+"15","Alex Armstrong",482,6,634,1,4,4,144
+"16","Alex Bergnaum",239,1,175,3,1,1,311
+"17","Alexis Cormier",150,8,786,4,5,5,455
+"18","Alf Lueilwitz",202,7,596,3,4,4,344
+"19","Alferd Ziemann",245,5,697,3,3,5,335
+"20","Alfred Metz",245,7,703,3,4,5,345
+"21","Almedia Yundt",146,4,436,4,2,3,423
+"22","Alpheus Wilkinson",405,6,597,2,4,4,244
+"23","Alphonse Champlin V",214,7,367,3,4,2,342
+"24","Alton Wintheiser",475,5,392,2,3,3,233
+"25","Alvah Bogisich",191,8,598,3,5,4,354
+"26","Alvera Balistreri",127,5,539,4,3,4,434
+"27","Alwina Wilkinson DDS",227,6,712,3,4,5,345
+"28","Alyssia Hickle",209,5,387,3,3,3,333
+"29","Amina Renner",215,5,663,3,3,4,334
+"30","Amit Langworth",414,2,253,2,1,1,211
+"31","Anabel Jakubowski PhD",164,6,443,4,4,3,443
+"32","Anastasia Howe",339,4,425,2,2,3,223
+"33","Anderson Quitzon",676,3,287,1,1,2,112
+"34","Andra Bosco",156,4,225,4,2,1,421
+"35","Andra Goodwin",12,4,202,5,2,1,521
+"36","Angeles McLaughlin PhD",937,2,316,1,1,2,112
+"37","Anie Hettinger",444,3,325,2,1,2,212
+"38","Anjelica Klocko",458,4,589,2,2,4,224
+"39","Antonio Bechtelar V",666,3,336,1,1,2,112
+"40","Ariane Hansen",455,6,507,2,4,4,244
+"41","Ariel Yundt",126,10,1069,4,5,5,455
+"42","Arlie Brekke IV",327,5,434,2,3,3,233
+"43","Arlyn Dickinson",39,7,600,5,4,4,544
+"44","Arnett Waters",210,5,341,3,3,2,332
+"45","Arno Blick",46,4,388,5,2,3,523
+"46","Art Hyatt III",274,6,803,3,4,5,345
+"47","Aryan Bahringer",286,4,527,3,2,4,324
+"48","Asha Ankunding",399,3,81,2,1,1,211
+"49","Ashleigh Eichmann",162,4,681,4,2,5,425
+"50","Aubrey Witting",53,4,229,5,2,1,521
+"51","Aurthur Kirlin II",116,9,856,4,5,5,455
+"52","Auther Haley",57,9,878,5,5,5,555
+"53","Avah Schneider",122,7,777,4,4,5,445
+"54","Avery Bartoletti",183,4,370,3,2,2,322
+"55","Ayesha Carroll",35,5,390,5,3,3,533
+"56","Azariah Lubowitz",179,5,425,4,3,3,433
+"57","Azul Wehner",932,1,190,1,1,1,111
+"58","Barrett Turcotte DVM",186,4,319,3,2,2,322
+"59","Bartley Collier",872,2,141,1,1,1,111
+"60","Bascom Prosacco",253,3,211,3,1,1,311
+"61","Bea Considine",312,5,527,2,3,4,234
+"62","Beda Paucek",488,2,198,1,1,1,111
+"63","Benjamin Barton",181,5,552,3,3,4,334
+"64","Benji Jacobson",632,2,94,1,1,1,111
+"65","Bennett Gleason",202,1,37,3,1,1,311
+"66","Benson Schulist",217,7,764,3,4,5,345
+"67","Berkley Ernser DDS",269,9,696,3,5,5,355
+"68","Bernard Bruen",72,8,875,5,5,5,555
+"69","Bernetta O'Conner",114,4,276,5,2,2,522
+"70","Bernhard Lind",152,4,375,4,2,2,422
+"71","Bertina Renner MD",5,6,528,5,4,4,544
+"72","Bessie Kub",457,9,977,2,5,5,255
+"73","Bethel Wunsch",331,3,190,2,1,1,211
+"74","Bilal Hahn",588,2,241,1,1,1,111
+"75","Blair Cormier",250,5,733,3,3,5,335
+"76","Blair Erdman PhD",181,8,845,3,5,5,355
+"77","Bobby Corwin",365,3,246,2,1,1,211
+"78","Bonny Breitenberg",573,6,531,1,4,4,144
+"79","Boyd Cronin",298,3,318,2,1,2,212
+"80","Bradford Bode",13,5,330,5,3,2,532
+"81","Braelyn King",170,5,435,4,3,3,433
+"82","Braiden Bogan",479,5,470,2,3,3,233
+"83","Braulio Haag MD",186,3,381,3,1,2,312
+"84","Brayan Terry",601,4,338,1,2,2,122
+"85","Braydon Lindgren",176,1,188,4,1,1,411
+"86","Brionna Miller",174,4,374,4,2,2,422
+"87","Britany O'Hara",18,7,330,5,4,2,542
+"88","Britni Daugherty",62,3,226,5,1,1,511
+"89","Britton Brekke",363,3,336,2,1,2,212
+"90","Bronson Towne",89,4,161,5,2,1,521
+"91","Brooks Funk",497,2,96,1,1,1,111
+"92","Bryson Reinger",175,6,580,4,4,4,444
+"93","Bud Marquardt",521,5,323,1,3,2,132
+"94","Buddie Terry MD",294,7,635,3,4,4,344
+"95","Buford Pollich",101,4,492,5,2,3,523
+"96","Burke Boehm Sr.",578,3,316,1,1,2,112
+"97","Burke Connelly",41,6,465,5,4,3,543
+"98","Burns Mayer",266,5,419,3,3,3,333
+"99","Burr O'Kon",172,4,381,4,2,2,422
+"100","Burton Kuvalis",259,4,393,3,2,3,323
+"101","Bush Macejkovic",203,3,442,3,1,3,313
+"102","Bush Schroeder",236,6,639,3,4,4,344
+"103","Butler Schmitt",122,7,689,4,4,5,445
+"104","Byrd Abshire",59,3,456,5,1,3,513
+"105","Byrd Kuhn MD",225,5,532,3,3,4,334
+"106","Cali Weimann",473,5,533,2,3,4,234
+"107","Cameron Abbott DDS",108,8,723,5,5,5,555
+"108","Candido Krajcik",71,8,613,5,5,4,554
+"109","Cari Renner PhD",180,8,787,4,5,5,455
+"110","Carlton Mante",164,5,522,4,3,4,434
+"111","Carlyn Mann",172,2,171,4,1,1,411
+"112","Carmel Emard",182,3,143,3,1,1,311
+"113","Carmella Schiller",200,6,721,3,4,5,345
+"114","Cary McGlynn",222,5,520,3,3,4,334
+"115","Casandra Krajcik",144,10,968,4,5,5,455
+"116","Case Weber",77,6,564,5,4,4,544
+"117","Casen Blick V",391,4,407,2,2,3,223
+"118","Casen Kuhlman",27,2,186,5,1,1,511
+"119","Caswell Anderson",499,5,559,1,3,4,134
+"120","Catalina Ortiz",426,7,837,2,4,5,245
+"121","Catharine Pacocha",601,3,346,1,1,2,112
+"122","Cathey Beatty",250,6,343,3,4,2,342
+"123","Cato Cartwright",144,5,314,4,3,2,432
+"124","Caylee Carroll",240,7,636,3,4,4,344
+"125","Celine Wisozk",95,7,596,5,4,4,544
+"126","Chadrick Williamson",46,5,281,5,3,2,532
+"127","Chantelle Gaylord",526,3,293,1,1,2,112
+"128","Charity Rodriguez",350,5,420,2,3,3,233
+"129","Charls Rempel DDS",155,2,187,4,1,1,411
+"130","Charolette Klein",474,4,602,2,2,4,224
+"131","Chase Skiles",525,6,728,1,4,5,145
+"132","Chastity Greenfelder PhD",506,3,222,1,1,1,111
+"133","Cherrelle Bartell",84,6,277,5,4,2,542
+"134","Christal Dooley",537,3,311,1,1,2,112
+"135","Christal Lakin DDS",458,3,491,2,1,3,213
+"136","Christi Connelly",114,3,295,5,1,2,512
+"137","Claire Terry",167,6,775,4,4,5,445
+"138","Claire Torp",280,3,353,3,1,2,312
+"139","Claudette Cummings DVM",140,6,313,4,4,2,442
+"140","Claus Bradtke",676,4,435,1,2,3,123
+"141","Clemens Torp",221,7,950,3,4,5,345
+"142","Cleveland Fay",88,8,790,5,5,5,555
+"143","Clovis Feil I",268,3,312,3,1,2,312
+"144","Coley Lind Sr.",307,3,439,2,1,3,213
+"145","Collie Greenholt",261,3,342,3,1,2,312
+"146","Collie Von MD",462,6,612,2,4,4,244
+"147","Con Altenwerth",463,2,271,2,1,2,212
+"148","Corda Towne",183,8,1018,3,5,5,355
+"149","Corene Lind",59,4,218,5,2,1,521
+"150","Corey Bechtelar",846,2,237,1,1,1,111
+"151","Corrina Little DDS",592,3,484,1,1,3,113
+"152","Corrine Champlin",265,6,510,3,4,4,344
+"153","Cristen Hammes",392,5,402,2,3,3,233
+"154","Cristine Baumbach",265,6,620,3,4,4,344
+"155","Cristofer VonRueden",229,6,615,3,4,4,344
+"156","Cristy Ferry",559,1,172,1,1,1,111
+"157","Curtis Runolfsdottir",431,5,566,2,3,4,234
+"158","Daija Legros",30,4,432,5,2,3,523
+"159","Daisha Torphy",82,5,371,5,3,2,532
+"160","Damarcus Erdman II",446,5,589,2,3,4,234
+"161","Darci Schaefer",583,2,198,1,1,1,111
+"162","Darrell Heathcote",160,4,316,4,2,2,422
+"163","Darrian Bartell I",48,8,819,5,5,5,555
+"164","Darrion Stoltenberg",176,6,766,4,4,5,445
+"165","Darwyn Berge",480,2,62,2,1,1,211
+"166","Daryn Hickle",352,4,364,2,2,2,222
+"167","Dashawn Schroeder",589,2,244,1,1,1,111
+"168","Davian Ledner",199,4,291,3,2,2,322
+"169","Davian Stokes",143,4,385,4,2,3,423
+"170","Davie Hintz PhD",430,4,363,2,2,2,222
+"171","Davion Hudson",251,2,172,3,1,1,311
+"172","Davy Leuschke",295,4,356,3,2,2,322
+"173","Deann Dicki",430,3,205,2,1,1,211
+"174","Deasia Lockman MD",392,1,185,2,1,1,211
+"175","Deena Ziemann",137,4,422,4,2,3,423
+"176","Deion Auer",847,4,328,1,2,2,122
+"177","Delfina Watsica MD",10,6,668,5,4,5,545
+"178","Delia Witting",17,4,323,5,2,2,522
+"179","Dell Mitchell",359,2,231,2,1,1,211
+"180","Dellar Schroeder",39,6,460,5,4,3,543
+"181","Dema Beer",23,4,251,5,2,1,521
+"182","Dennie Powlowski",467,5,581,2,3,4,234
+"183","Deontae Effertz",135,7,544,4,4,4,444
+"184","Deonte Zemlak",95,5,586,5,3,4,534
+"185","Dereck Denesik DDS",9,4,633,5,2,4,524
+"186","Derek Witting",556,5,674,1,3,5,135
+"187","Desi Ortiz",154,7,626,4,4,4,444
+"188","Devante Gerhold",529,5,713,1,3,5,135
+"189","Devante O'Hara",81,3,166,5,1,1,511
+"190","Devaughn Erdman V",99,4,384,5,2,3,523
+"191","Devon Osinski DVM",545,3,579,1,1,4,114
+"192","Devontae Swaniawski",508,4,274,1,2,2,122
+"193","Diandra Brakus DVM",557,3,211,1,1,1,111
+"194","Diego Gislason",224,5,198,3,3,1,331
+"195","Domingo Block",511,5,532,1,3,4,134
+"196","Dominick Jewess IV",186,4,575,3,2,4,324
+"197","Dominik Anderson",20,10,1249,5,5,5,555
+"198","Dominique McKenzie",332,5,615,2,3,4,234
+"199","Donaciano Corwin",12,8,892,5,5,5,555
+"200","Donell Dach",146,3,260,4,1,2,412
+"201","Donie Stroman PhD",92,2,97,5,1,1,511
+"202","Donta Veum",515,7,792,1,4,5,145
+"203","Dorathy Nader",101,5,456,5,3,3,533
+"204","Dorcas Friesen",655,5,648,1,3,4,134
+"205","Dorr Lindgren",208,5,583,3,3,4,334
+"206","Dorris Jast",629,4,549,1,2,4,124
+"207","Doshia Stroman",102,3,123,5,1,1,511
+"208","Dow Halvorson",317,6,836,2,4,5,245
+"209","Dr. Aden Murphy",98,7,596,5,4,4,544
+"210","Dr. Alberto Kunze II",210,7,669,3,4,5,345
+"211","Dr. Alva Klocko",267,5,548,3,3,4,334
+"212","Dr. Arnoldo Grimes PhD",282,3,398,3,1,3,313
+"213","Dr. Arnoldo Marks",129,6,567,4,4,4,444
+"214","Dr. Barrie Bins",4,4,446,5,2,3,523
+"215","Dr. Bertrand Wolff",870,1,120,1,1,1,111
+"216","Dr. Bree Stehr DVM",376,7,607,2,4,4,244
+"217","Dr. Buffy Williamson",298,3,353,2,1,2,212
+"218","Dr. Camilo Kiehn",445,4,281,2,2,2,222
+"219","Dr. Carma Wyman",44,7,620,5,4,4,544
+"220","Dr. Charlton Kutch",135,4,360,4,2,2,422
+"221","Dr. Chas Cummerata Jr.",510,2,169,1,1,1,111
+"222","Dr. Cheyenne Dach DVM",153,5,406,4,3,3,433
+"223","Dr. Christal Wolff PhD",116,9,1007,4,5,5,455
+"224","Dr. Collie Krajcik",144,7,704,4,4,5,445
+"225","Dr. Crawford Mayert",504,4,222,1,2,1,121
+"226","Dr. Darl Rice",433,4,392,2,2,3,223
+"227","Dr. Dell Baumbach III",80,3,270,5,1,2,512
+"228","Dr. Dillon Pollich DDS",558,5,284,1,3,2,132
+"229","Dr. Donal Auer DDS",284,4,370,3,2,2,322
+"230","Dr. Dustyn Rodriguez",439,7,265,2,4,2,242
+"231","Dr. Eddie Armstrong DDS",64,6,433,5,4,3,543
+"232","Dr. Eliezer Wuckert",130,6,529,4,4,4,444
+"233","Dr. Elroy Kirlin Jr.",28,5,363,5,3,2,532
+"234","Dr. Elzy Anderson",168,6,448,4,4,3,443
+"235","Dr. Erving Pagac Sr.",62,3,244,5,1,1,511
+"236","Dr. Ferd Stroman",183,3,298,3,1,2,312
+"237","Dr. Fleming Grant IV",686,2,172,1,1,1,111
+"238","Dr. Flint Zboncak",327,4,277,2,2,2,222
+"239","Dr. Franco Kemmer II",260,12,1065,3,5,5,355
+"240","Dr. Fredrick Klein",199,6,471,3,4,3,343
+"241","Dr. Fronnie Kemmer",531,3,363,1,1,2,112
+"242","Dr. Gerard Bauch",173,4,282,4,2,2,422
+"243","Dr. Grady Beier DDS",408,5,542,2,3,4,234
+"244","Dr. Gussie McLaughlin III",132,5,471,4,3,3,433
+"245","Dr. Halley Johnston PhD",399,3,266,2,1,2,212
+"246","Dr. Hansel Steuber",393,4,333,2,2,2,222
+"247","Dr. Hildegard Murray",213,7,672,3,4,5,345
+"248","Dr. Hjalmar Langworth II",119,2,114,4,1,1,411
+"249","Dr. Hoke Jacobs",133,5,708,4,3,5,435
+"250","Dr. Howard Zulauf V",569,1,113,1,1,1,111
+"251","Dr. Humphrey Grant",164,2,138,4,1,1,411
+"252","Dr. Isaak Oberbrunner DVM",228,5,228,3,3,1,331
+"253","Dr. Ismael Stracke",491,5,521,1,3,4,134
+"254","Dr. Jaheem Pfannerstill III",153,6,641,4,4,4,444
+"255","Dr. Jaren Schmeler",102,3,421,5,1,3,513
+"256","Dr. Jeannie Rutherford",511,4,416,1,2,3,123
+"257","Dr. Jeff Bartoletti",81,8,771,5,5,5,555
+"258","Dr. Jeffie Johns",294,8,665,3,5,4,354
+"259","Dr. Jerod Berge Jr.",422,6,392,2,4,3,243
+"260","Dr. Jesse Schowalter",29,6,714,5,4,5,545
+"261","Dr. Jett Schaefer",589,3,366,1,1,2,112
+"262","Dr. Karissa Kerluke",700,1,57,1,1,1,111
+"263","Dr. Keenen Parker",57,8,532,5,5,4,554
+"264","Dr. Kelcie Yost MD",481,7,646,2,4,4,244
+"265","Dr. Kieth Wiegand",210,4,350,3,2,2,322
+"266","Dr. Kloe Parker DVM",113,4,289,5,2,2,522
+"267","Dr. Kyle Doyle II",183,8,889,3,5,5,355
+"268","Dr. Kyra Littel",334,4,259,2,2,2,222
+"269","Dr. Letta Daniel MD",161,7,688,4,4,5,445
+"270","Dr. Linn Schuppe",200,3,111,3,1,1,311
+"271","Dr. Lovett Legros DDS",151,5,420,4,3,3,433
+"272","Dr. Lucious Langosh",116,4,265,4,2,2,422
+"273","Dr. Lynn Gleason Jr.",476,3,114,2,1,1,211
+"274","Dr. Mallory Dooley MD",399,1,33,2,1,1,211
+"275","Dr. Matteo Little",93,4,311,5,2,2,522
+"276","Dr. Mazie Predovic MD",99,5,283,5,3,2,532
+"277","Dr. Mettie Green DVM",179,3,464,4,1,3,413
+"278","Dr. Micayla Kutch",32,10,834,5,5,5,555
+"279","Dr. Mike Legros",186,1,23,3,1,1,311
+"280","Dr. Myles Stroman",485,2,187,1,1,1,111
+"281","Dr. Ned Swaniawski",208,6,457,3,4,3,343
+"282","Dr. Nehemiah Kassulke",534,1,111,1,1,1,111
+"283","Dr. Niles Altenwerth II",380,7,644,2,4,4,244
+"284","Dr. Patti Rempel",462,7,625,2,4,4,244
+"285","Dr. Ras Kshlerin",78,5,672,5,3,5,535
+"286","Dr. Rayburn Wilkinson I",561,6,489,1,4,3,143
+"287","Dr. Rene Kuhlman DDS",515,3,355,1,1,2,112
+"288","Dr. Romeo Sauer PhD",276,3,312,3,1,2,312
+"289","Dr. Santana Schultz V",131,4,390,4,2,3,423
+"290","Dr. Shaniece Herzog PhD",148,4,308,4,2,2,422
+"291","Dr. Shea Buckridge PhD",166,6,420,4,4,3,443
+"292","Dr. Sherie Mayer",172,7,654,4,4,4,444
+"293","Dr. Shirl Cremin PhD",201,4,326,3,2,2,322
+"294","Dr. Skyler Windler Sr.",102,6,472,5,4,3,543
+"295","Dr. Tyreke DuBuque IV",210,7,690,3,4,5,345
+"296","Dr. Valentine Volkman DVM",81,8,1068,5,5,5,555
+"297","Dr. Vic Bauch",64,9,850,5,5,5,555
+"298","Dr. Wilfredo Wisozk V",477,3,332,2,1,2,212
+"299","Dr. Willis Bahringer",42,6,665,5,4,4,544
+"300","Dr. Woodson Klein",152,4,515,4,2,4,424
+"301","Drew Rohan",432,2,230,2,1,1,211
+"302","Dudley Franecki",222,2,375,3,1,2,312
+"303","Dulce Wintheiser",490,4,203,1,2,1,121
+"304","Dwain Skiles Jr.",481,6,805,2,4,5,245
+"305","Dwan Wilderman",174,3,268,4,1,2,412
+"306","Dyllan Osinski",47,1,155,5,1,1,511
+"307","Ean Raynor",499,2,77,1,1,1,111
+"308","Earnest Rolfson",148,4,433,4,2,3,423
+"309","Ebb Doyle",170,5,307,4,3,2,432
+"310","Egbert McLaughlin",63,6,466,5,4,3,543
+"311","Elaine Emard",480,4,301,2,2,2,222
+"312","Elam Hirthe DVM",652,6,546,1,4,4,144
+"313","Elenora Trantow",172,9,826,4,5,5,455
+"314","Elgie Cole",172,5,476,4,3,3,433
+"315","Elgin Abbott",575,2,233,1,1,1,111
+"316","Elias Huels V",569,7,841,1,4,5,145
+"317","Elinor Howell",320,6,746,2,4,5,245
+"318","Elinore Doyle",83,7,531,5,4,4,544
+"319","Elizabet Schiller",62,2,194,5,1,1,511
+"320","Elizah Abbott",102,6,431,5,4,3,543
+"321","Elizbeth West",187,2,183,3,1,1,311
+"322","Eller Marquardt",488,4,401,1,2,3,123
+"323","Elmyra Schaefer",326,12,1150,2,5,5,255
+"324","Elon Haag",696,1,32,1,1,1,111
+"325","Elsie Parker",13,8,839,5,5,5,555
+"326","Elza Gleichner",457,3,268,2,1,2,212
+"327","Emanuel Reichert",269,5,421,3,3,3,333
+"328","Emmaline Stark MD",129,5,282,4,3,2,432
+"329","Enid Reinger",7,9,792,5,5,5,555
+"330","Enos VonRueden",629,3,99,1,1,1,111
+"331","Epifanio Kozey",493,1,43,1,1,1,111
+"332","Erastus Macejkovic",80,5,519,5,3,4,534
+"333","Erla Schulist",77,3,270,5,1,2,512
+"334","Errol Bogisich",684,1,81,1,1,1,111
+"335","Esequiel Kirlin I",159,12,768,4,5,5,455
+"336","Esker Cormier",33,4,283,5,2,2,522
+"337","Essence Metz DDS",379,8,722,2,5,5,255
+"338","Ethyl Botsford",252,8,526,3,5,4,354
+"339","Etta Franecki MD",481,8,892,2,5,5,255
+"340","Etta Towne",134,6,581,4,4,4,444
+"341","Eugenie Conn PhD",548,2,286,1,1,2,112
+"342","Evelyn Schinner",317,2,91,2,1,1,211
+"343","Ewart Haag",168,10,595,4,5,4,454
+"344","Ewart Luettgen",528,2,252,1,1,1,111
+"345","Ewin Torphy",98,2,424,5,1,3,513
+"346","Exie Gutmann",103,7,651,5,4,4,544
+"347","Exie Shields",227,3,251,3,1,1,311
+"348","Ezzard Bernhard",423,6,317,2,4,2,242
+"349","Fannie Watsica",181,7,648,3,4,4,344
+"350","Fidel Kilback",94,4,411,5,2,3,523
+"351","Finnegan Franecki",572,6,263,1,4,2,142
+"352","Flem Kozey",182,6,365,3,4,2,342
+"353","Flo Gulgowski",379,4,416,2,2,3,223
+"354","Florine Jones",509,4,269,1,2,2,122
+"355","Floy Krajcik",272,5,484,3,3,3,333
+"356","Forest Pouros",613,3,455,1,1,3,113
+"357","Fount Flatley",146,11,937,4,5,5,455
+"358","Francisquita Heidenreich",734,3,72,1,1,1,111
+"359","Franz Mohr",527,4,430,1,2,3,123
+"360","Franz Powlowski",427,1,169,2,1,1,211
+"361","Friend Stracke",456,6,571,2,4,4,244
+"362","Gabriel Schiller",416,3,420,2,1,3,213
+"363","Garfield Hammes",433,5,644,2,3,4,234
+"364","Garrison Kling",28,3,294,5,1,2,512
+"365","Gayle Kuphal",20,5,460,5,3,3,533
+"366","Gaylen Kiehn",652,4,489,1,2,3,123
+"367","Gee Nitzsche",176,2,165,4,1,1,411
+"368","Geoffrey Reichert",548,3,301,1,1,2,112
+"369","Georgene Aufderhar PhD",122,6,464,4,4,3,443
+"370","Geralyn Rosenbaum",80,5,393,5,3,3,533
+"371","Geri Wuckert",599,1,86,1,1,1,111
+"372","Germaine Becker",444,4,400,2,2,3,223
+"373","Gerold Bernhard Jr.",126,2,149,4,1,1,411
+"374","Gianna Stiedemann",30,7,759,5,4,5,545
+"375","Gilmer Kertzmann",582,5,677,1,3,5,135
+"376","Gilmore Schmitt",125,5,353,4,3,2,432
+"377","Ginger Stamm",34,3,248,5,1,1,511
+"378","Ginger Wintheiser",633,4,340,1,2,2,122
+"379","Girtha Douglas",165,3,143,4,1,1,411
+"380","Giuseppe Tremblay",577,3,162,1,1,1,111
+"381","Glennis Howe",101,3,188,5,1,1,511
+"382","Gonzalo Jones",100,5,450,5,3,3,533
+"383","Gracia Wunsch",225,6,662,3,4,4,344
+"384","Gregg Franecki",225,4,317,3,2,2,322
+"385","Grisel Reichert MD",150,5,260,4,3,2,432
+"386","Gunner Wiegand",96,4,234,5,2,1,521
+"387","Haden Kautzer",171,2,236,4,1,1,411
+"388","Hakeem Leffler",264,5,332,3,3,2,332
+"389","Halbert Nolan",516,2,95,1,1,1,111
+"390","Hampton Rath",127,6,619,4,4,4,444
+"391","Handy Walsh",116,7,758,4,4,5,445
+"392","Hansel Kiehn",134,6,416,4,4,3,443
+"393","Hansford Moen PhD",186,7,1004,3,4,5,345
+"394","Hardy Leannon",136,3,236,4,1,1,411
+"395","Harlon Rolfson",449,7,603,2,4,4,244
+"396","Harrie Swaniawski",636,5,363,1,3,2,132
+"397","Hassie Schiller PhD",187,2,119,3,1,1,311
+"398","Hattie Roberts",122,5,436,4,3,3,433
+"399","Helmer Monahan",331,3,264,2,1,2,212
+"400","Helyn Ondricka",277,5,384,3,3,3,333
+"401","Herman Kling I",371,6,578,2,4,4,244
+"402","Herschel Flatley",379,6,518,2,4,4,244
+"403","Hershel Shields",179,6,819,4,4,5,445
+"404","Hilma Little",65,7,513,5,4,4,544
+"405","Hiroshi Terry",239,6,434,3,4,3,343
+"406","Hobson Barton",516,1,102,1,1,1,111
+"407","Holland Lynch",486,6,499,1,4,3,143
+"408","Hosteen Jacobi",545,4,300,1,2,2,122
+"409","Howell Blick",245,5,235,3,3,1,331
+"410","Hughey Bartoletti DDS",73,10,1036,5,5,5,555
+"411","Hurley Schiller I",442,6,687,2,4,5,245
+"412","Hyman Kemmer",203,5,455,3,3,3,333
+"413","Iesha Mraz",131,6,466,4,4,3,443
+"414","Iliana Donnelly",251,5,486,3,3,3,333
+"415","Imani Swift",443,6,546,2,4,4,244
+"416","Imelda Harber",455,6,474,2,4,3,243
+"417","Ingrid O'Kon MD",463,9,922,2,5,5,255
+"418","Irwin Ritchie",159,6,694,4,4,5,445
+"419","Isabela Mertz MD",97,13,1104,5,5,5,555
+"420","Isidore Skiles",189,4,410,3,2,3,323
+"421","Iverson Herman Sr.",106,6,584,5,4,4,544
+"422","Iverson Hilpert",161,2,149,4,1,1,411
+"423","Iverson Robel",160,9,880,4,5,5,455
+"424","Ivy Kohler",356,7,719,2,4,5,245
+"425","Iyanna Schmeler PhD",182,4,473,3,2,3,323
+"426","Izetta Stracke",106,7,523,5,4,4,544
+"427","Jabbar Dickens",160,10,1060,4,5,5,455
+"428","Jacqueline Nikolaus",280,7,434,3,4,3,343
+"429","Jacquez Jacobs",375,2,87,2,1,1,211
+"430","Jadiel Wunsch",343,5,714,2,3,5,235
+"431","Jaime Nader",191,4,276,3,2,2,322
+"432","Jaliyah Purdy",241,3,249,3,1,1,311
+"433","Jammie Runolfsdottir",276,5,374,3,3,2,332
+"434","Janeen West",66,5,374,5,3,2,532
+"435","Janell Heller DVM",488,3,203,1,1,1,111
+"436","Janiyah Cassin",360,2,75,2,1,1,211
+"437","Jarred Stiedemann DDS",372,4,291,2,2,2,222
+"438","Jayden Hayes",478,7,435,2,4,3,243
+"439","Jayme Welch",760,1,23,1,1,1,111
+"440","Jayvion Cummings",53,9,1090,5,5,5,555
+"441","Jazlyn Casper PhD",512,5,403,1,3,3,133
+"442","Jazmin Harvey",34,5,874,5,3,5,535
+"443","Jeanette Lind",41,10,1062,5,5,5,555
+"444","Jeanie Berge",539,4,570,1,2,4,124
+"445","Jensen Cormier Jr.",236,5,556,3,3,4,334
+"446","Jerald Gaylord",173,4,275,4,2,2,422
+"447","Jerald Hintz",179,3,286,4,1,2,412
+"448","Jeraldine Waelchi",146,3,359,4,1,2,412
+"449","Jeremie Wehner V",50,8,488,5,5,3,553
+"450","Jerold Sporer",135,6,506,4,4,3,443
+"451","Jerrell Wisozk I",113,7,764,5,4,5,545
+"452","Jessica Connelly",352,7,438,2,4,3,243
+"453","Jessica Koepp MD",88,5,450,5,3,3,533
+"454","Jessy Emard",281,7,653,3,4,4,344
+"455","Jevon Rutherford",391,2,268,2,1,2,212
+"456","Jimmie Herzog",265,5,401,3,3,3,333
+"457","Joana Crist",67,4,552,5,2,4,524
+"458","Joana Kemmer DDS",153,8,806,4,5,5,455
+"459","Joann Yundt",604,2,223,1,1,1,111
+"460","Joe McDermott",390,3,317,2,1,2,212
+"461","Joelle Deckow",101,5,479,5,3,3,533
+"462","Johnathon Schimmel",455,4,436,2,2,3,223
+"463","Johney Mayer",272,3,101,3,1,1,311
+"464","Josef Lemke",48,5,391,5,3,3,533
+"465","Josephus Bradtke DVM",374,4,520,2,2,4,224
+"466","Josette Bailey",449,5,663,2,3,4,234
+"467","Juana Bogan",505,5,416,1,3,3,133
+"468","Judyth Lueilwitz",662,5,552,1,3,4,134
+"469","Jules Harber",673,2,77,1,1,1,111
+"470","Jules Jacobi",453,9,935,2,5,5,255
+"471","Julia Koch",171,5,236,4,3,1,431
+"472","Juliana Sipes",190,4,314,3,2,2,322
+"473","Juliet Terry",410,2,218,2,1,1,211
+"474","Julisa Halvorson",127,12,987,4,5,5,455
+"475","Kadence Morissette",144,7,613,4,4,4,444
+"476","Kalvin Prosacco",129,7,751,4,4,5,445
+"477","Kamren Moen",336,3,274,2,1,2,212
+"478","Kamron Halvorson",403,8,829,2,5,5,255
+"479","Karan Weber DVM",67,4,276,5,2,2,522
+"480","Karen Harvey",249,4,229,3,2,1,321
+"481","Karlie Treutel",61,5,318,5,3,2,532
+"482","Karon Torphy",398,5,554,2,3,4,234
+"483","Karren Funk",449,3,353,2,1,2,212
+"484","Karren Schuppe",381,6,549,2,4,4,244
+"485","Katlyn Mann",297,7,698,3,4,5,345
+"486","Katy King",246,6,653,3,4,4,344
+"487","Kelsey Pollich",48,3,473,5,1,3,513
+"488","Kem Medhurst II",287,4,275,3,2,2,322
+"489","Kendal Wiegand",137,6,712,4,4,5,445
+"490","Kendrick Boyle",8,4,347,5,2,2,522
+"491","Kenny Wisozk",182,6,630,3,4,4,344
+"492","Kenton Dickens",575,8,872,1,5,5,155
+"493","Keri Schuppe MD",206,5,528,3,3,4,334
+"494","Keri Williamson",180,9,741,4,5,5,455
+"495","Kingston Hayes",190,3,347,3,1,2,312
+"496","Kingston Waelchi",533,3,292,1,1,2,112
+"497","Kittie Dare",233,4,441,3,2,3,323
+"498","Kizzy Doyle",168,13,1488,4,5,5,455
+"499","Kole Crooks",92,5,332,5,3,2,532
+"500","Kordell Hartmann",478,2,260,2,1,2,212
+"501","Korey Cronin",479,2,82,2,1,1,211
+"502","Kraig Hayes DDS",171,6,781,4,4,5,445
+"503","Krista Hartmann",695,4,155,1,2,1,121
+"504","Kristian Heaney",681,3,479,1,1,3,113
+"505","Kristy Kunde MD",350,4,242,2,2,1,221
+"506","Kyla Orn",90,4,251,5,2,1,521
+"507","Kylie Kertzmann",117,2,209,4,1,1,411
+"508","Lacy Connelly MD",466,4,113,2,2,1,221
+"509","Laddie Donnelly Sr.",352,3,196,2,1,1,211
+"510","Laisha VonRueden",27,9,1003,5,5,5,555
+"511","Lakeshia Harris",549,7,309,1,4,2,142
+"512","Lane Roberts",372,5,585,2,3,4,234
+"513","Lani Dicki MD",112,6,356,5,4,2,542
+"514","Lashawn Hoppe",469,5,437,2,3,3,233
+"515","Lassie Lindgren",63,8,775,5,5,5,555
+"516","Latesha Bernhard",195,8,724,3,5,5,355
+"517","Latifah Carter",146,4,601,4,2,4,424
+"518","Latoya Stanton",21,10,814,5,5,5,555
+"519","Latrice Stokes",181,4,574,3,2,4,324
+"520","Laurel Morar",172,5,230,4,3,1,431
+"521","Laurene Considine",311,9,1008,2,5,5,255
+"522","Lavern Pfeffer DDS",426,4,632,2,2,4,224
+"523","Leala Schuppe MD",193,6,512,3,4,4,344
+"524","Lennon Hilll",431,6,621,2,4,4,244
+"525","Leone Fritsch",359,4,375,2,2,2,222
+"526","Leonel Rippin",307,5,515,2,3,4,234
+"527","Lesa Hane",77,3,157,5,1,1,511
+"528","Lesta Carter",427,9,773,2,5,5,255
+"529","Lesta Davis",239,3,152,3,1,1,311
+"530","Letitia Stokes",175,8,536,4,5,4,454
+"531","Lexi Altenwerth",399,4,655,2,2,4,224
+"532","Leyla Dietrich",118,5,485,4,3,3,433
+"533","Lidie Gislason",94,3,285,5,1,2,512
+"534","Lilah Blanda PhD",202,6,358,3,4,2,342
+"535","Lillianna Larkin",148,9,1011,4,5,5,455
+"536","Lim Langworth",106,5,424,5,3,3,533
+"537","Lindy Pagac",446,4,306,2,2,2,222
+"538","Link Carroll MD",494,7,648,1,4,4,144
+"539","Link Orn",955,1,61,1,1,1,111
+"540","Lionel Marquardt",976,1,133,1,1,1,111
+"541","Lisandro Kassulke",312,5,730,2,3,5,235
+"542","Lisandro Swift",97,6,479,5,4,3,543
+"543","Lisha Hayes",105,4,340,5,2,2,522
+"544","Lissa White",417,6,492,2,4,3,243
+"545","Livia Pfeffer",436,2,139,2,1,1,211
+"546","Lockie Fahey",509,3,284,1,1,2,112
+"547","Lollie Conroy",578,2,94,1,1,1,111
+"548","Lollie Heaney",568,1,28,1,1,1,111
+"549","Londyn Reinger",45,9,782,5,5,5,555
+"550","Lorean Stokes DVM",82,9,708,5,5,5,555
+"551","Lorelai Parisian",186,9,788,3,5,5,355
+"552","Loretta Lueilwitz",651,1,79,1,1,1,111
+"553","Loretto Romaguera",84,2,237,5,1,1,511
+"554","Lott Larkin",472,6,437,2,4,3,243
+"555","Louis Toy I",48,6,711,5,4,5,545
+"556","Lovisa Wilkinson",471,3,311,2,1,2,212
+"557","Loy Olson Sr.",151,6,560,4,4,4,444
+"558","Lucia Flatley",309,4,289,2,2,2,222
+"559","Luciano Kling",101,6,587,5,4,4,544
+"560","Luda Kihn",304,4,371,2,2,2,222
+"561","Luka Langosh",412,4,482,2,2,3,223
+"562","Lute Batz DVM",333,4,505,2,2,3,223
+"563","Luverne Rodriguez DDS",279,6,582,3,4,4,344
+"564","Lydia Willms",116,11,713,4,5,5,455
+"565","Lyn Parker",68,5,639,5,3,4,534
+"566","Lyndon McClure",270,5,575,3,3,4,334
+"567","Lyndsey Heidenreich",384,9,1050,2,5,5,255
+"568","Mabell Lemke",164,7,583,4,4,4,444
+"569","Mac Kertzmann",43,3,438,5,1,3,513
+"570","Madison Koelpin",231,3,388,3,1,3,313
+"571","Madyson Bergnaum PhD",85,8,965,5,5,5,555
+"572","Mae O'Kon",168,3,249,4,1,1,411
+"573","Maebell Terry",107,4,258,5,2,2,522
+"574","Magdalen Ward",533,2,184,1,1,1,111
+"575","Mahlon Pfeffer",507,3,166,1,1,1,111
+"576","Makenzie Hintz",497,2,252,1,1,1,111
+"577","Malaya White",86,6,546,5,4,4,544
+"578","Malcolm Bogan",140,5,565,4,3,4,434
+"579","Malcolm Heathcote",9,4,431,5,2,3,523
+"580","Malcolm Medhurst",275,4,350,3,2,2,322
+"581","Manilla Braun",372,3,513,2,1,4,214
+"582","Mansfield Boyle",465,6,640,2,4,4,244
+"583","Maralyn Greenfelder",162,4,401,4,2,3,423
+"584","Marcello Torphy Jr.",4,6,464,5,4,3,543
+"585","Marci Nader",48,6,494,5,4,3,543
+"586","Margarette Eichmann DVM",220,3,345,3,1,2,312
+"587","Margarita O'Reilly",127,4,649,4,2,4,424
+"588","Marguerite Heaney",114,4,265,5,2,2,522
+"589","Mariano Lueilwitz",400,6,540,2,4,4,244
+"590","Marissa Goyette",120,7,693,4,4,5,445
+"591","Marla Sanford",93,9,637,5,5,4,554
+"592","Marlene Runolfsson",230,5,554,3,3,4,334
+"593","Marrion Emmerich IV",149,7,490,4,4,3,443
+"594","Marty Wisozk",354,5,347,2,3,2,232
+"595","Marvin Wisozk",553,3,356,1,1,2,112
+"596","Masao Deckow",6,3,239,5,1,1,511
+"597","Mason Rodriguez",469,3,270,2,1,2,212
+"598","Mathilda Farrell",242,7,736,3,4,5,345
+"599","Matthew Schmeler",110,4,422,5,2,3,523
+"600","Maudie Waelchi",720,2,277,1,1,2,112
+"601","Mauricio VonRueden",509,5,371,1,3,2,132
+"602","Maxie Steuber",113,2,181,5,1,1,511
+"603","Melbourne Johns",173,3,260,4,1,2,412
+"604","Melvin Schmidt",73,6,673,5,4,5,545
+"605","Mendy Ledner",142,4,523,4,2,4,424
+"606","Mervin Pfeffer V",222,5,463,3,3,3,333
+"607","Mervyn Vandervort",723,3,294,1,1,2,112
+"608","Michell Gerlach",279,7,654,3,4,4,344
+"609","Miguelangel Dach",16,4,316,5,2,2,522
+"610","Mila Gibson",486,4,620,1,2,4,124
+"611","Milissa Batz MD",75,4,643,5,2,4,524
+"612","Mimi Goldner",468,4,404,2,2,3,223
+"613","Miss Akeelah Walsh PhD",160,7,779,4,4,5,445
+"614","Miss Aleen Kunze",396,2,320,2,1,2,212
+"615","Miss Anaya Kerluke",687,1,104,1,1,1,111
+"616","Miss Chante Stoltenberg PhD",316,6,805,2,4,5,245
+"617","Miss Cristi Quitzon PhD",152,5,425,4,3,3,433
+"618","Miss Dorotha Kuvalis PhD",55,7,958,5,4,5,545
+"619","Miss Ela Treutel",397,3,336,2,1,2,212
+"620","Miss Eugenia Barton",218,9,753,3,5,5,355
+"621","Miss Evita Howe MD",632,6,579,1,4,4,144
+"622","Miss Fronnie Schaefer DDS",51,6,573,5,4,4,544
+"623","Miss Goldie Smitham",498,5,631,1,3,4,134
+"624","Miss Haleigh Wilkinson",198,10,900,3,5,5,355
+"625","Miss Halle Davis DDS",132,8,665,4,5,4,454
+"626","Miss Jonnie Veum",148,8,770,4,5,5,455
+"627","Miss Jovita Reinger",200,3,243,3,1,1,311
+"628","Miss Kacie Miller DVM",169,10,1027,4,5,5,455
+"629","Miss Katelynn Lebsack DVM",99,7,382,5,4,3,543
+"630","Miss Katherine Balistreri DDS",288,4,357,3,2,2,322
+"631","Miss Kesha Daniel",79,6,447,5,4,3,543
+"632","Miss Lacey Sanford PhD",284,5,652,3,3,4,334
+"633","Miss Latosha O'Keefe",197,6,854,3,4,5,345
+"634","Miss Lovie Keeling DVM",103,5,348,5,3,2,532
+"635","Miss Madison Lehner DVM",583,6,475,1,4,3,143
+"636","Miss Mistie Torp MD",103,6,303,5,4,2,542
+"637","Miss Nealy Stanton",441,3,248,2,1,1,211
+"638","Miss Tillie Crooks DVM",164,7,709,4,4,5,445
+"639","Miss Velma Schulist",464,3,224,2,1,1,211
+"640","Mittie Jacobs PhD",119,4,292,4,2,2,422
+"641","Mitzi Bergstrom",375,3,188,2,1,1,211
+"642","Moe Sawayn",522,2,176,1,1,1,111
+"643","Mohammad Smith",201,6,600,3,4,4,344
+"644","Monique Reichel",532,4,360,1,2,2,122
+"645","Mont Mertz",125,3,261,4,1,2,412
+"646","Morton O'Connell",409,3,258,2,1,2,212
+"647","Mozell Greenfelder DDS",37,5,417,5,3,3,533
+"648","Mr. Alessandro Weissnat DDS",174,7,591,4,4,4,444
+"649","Mr. Almer Osinski",123,10,862,4,5,5,455
+"650","Mr. Armin Klocko IV",482,6,492,1,4,3,143
+"651","Mr. Brion Stark Sr.",229,8,852,3,5,5,355
+"652","Mr. Cayden Waters",120,4,232,4,2,1,421
+"653","Mr. Celestino Bosco",133,7,716,4,4,5,445
+"654","Mr. Christ Zieme MD",111,7,510,5,4,4,544
+"655","Mr. Cletus Corwin",558,2,81,1,1,1,111
+"656","Mr. Colin Prohaska",479,7,700,2,4,5,245
+"657","Mr. Dandre Nolan I",951,1,30,1,1,1,111
+"658","Mr. Demetric Franecki",149,4,387,4,2,3,423
+"659","Mr. Edw Frami",44,10,868,5,5,5,555
+"660","Mr. Elian Vandervort Jr.",195,5,332,3,3,2,332
+"661","Mr. Erin Zboncak IV",26,6,895,5,4,5,545
+"662","Mr. Fletcher Hudson",600,2,165,1,1,1,111
+"663","Mr. Fount Towne I",8,6,540,5,4,4,544
+"664","Mr. Francisco Kiehn",620,2,133,1,1,1,111
+"665","Mr. Fredric Funk III",439,3,228,2,1,1,211
+"666","Mr. Harris Pollich",21,5,734,5,3,5,535
+"667","Mr. Hosea Schiller",410,9,840,2,5,5,255
+"668","Mr. Hosie Howell PhD",421,5,496,2,3,3,233
+"669","Mr. Hunter Botsford Jr.",613,2,267,1,1,2,112
+"670","Mr. Hurley Brekke",444,2,175,2,1,1,211
+"671","Mr. Jeff Denesik",235,4,326,3,2,2,322
+"672","Mr. Jeramiah Cronin",6,6,547,5,4,4,544
+"673","Mr. Jimmy Mayert PhD",512,4,382,1,2,3,123
+"674","Mr. Junior Wintheiser II",429,3,529,2,1,4,214
+"675","Mr. Kenji Cormier",177,3,359,4,1,2,412
+"676","Mr. Kolten Wyman Jr.",495,5,668,1,3,5,135
+"677","Mr. Lary Champlin",124,14,1074,4,5,5,455
+"678","Mr. Lillard McGlynn V",588,2,96,1,1,1,111
+"679","Mr. Lon Witting Jr.",295,3,413,3,1,3,313
+"680","Mr. Lupe Kohler",299,7,716,2,4,5,245
+"681","Mr. Manuel DuBuque",126,9,927,4,5,5,455
+"682","Mr. Marcelo Wunsch MD",446,1,52,2,1,1,211
+"683","Mr. Marcus Langosh",98,3,363,5,1,2,512
+"684","Mr. Marquise Swaniawski MD",569,8,799,1,5,5,155
+"685","Mr. Mekhi Goyette",416,4,350,2,2,2,222
+"686","Mr. Michal Murphy",136,5,548,4,3,4,434
+"687","Mr. Michale Howe DVM",430,8,740,2,5,5,255
+"688","Mr. Mikeal Block",526,5,323,1,3,2,132
+"689","Mr. Owens Gaylord",123,3,172,4,1,1,411
+"690","Mr. Paulo Stoltenberg",487,3,308,1,1,2,112
+"691","Mr. Ray Stanton III",144,11,816,4,5,5,455
+"692","Mr. Rohan Wolf",502,6,820,1,4,5,145
+"693","Mr. Saverio Weimann II",263,5,534,3,3,4,334
+"694","Mr. Semaj Sauer",31,8,806,5,5,5,555
+"695","Mr. Tad Johnson",206,10,1184,3,5,5,355
+"696","Mr. Tegan Farrell MD",295,5,378,3,3,2,332
+"697","Mr. Thad Nader Sr.",282,5,480,3,3,3,333
+"698","Mr. Torry Bogan I",107,2,195,5,1,1,511
+"699","Mr. Tripp Batz PhD",291,5,446,3,3,3,333
+"700","Mr. Vito Ernser II",13,5,461,5,3,3,533
+"701","Mr. Wendel Hintz",87,6,798,5,4,5,545
+"702","Mr. Wilkie Moore MD",836,2,244,1,1,1,111
+"703","Mr. Zackery Armstrong",341,4,490,2,2,3,223
+"704","Mr. Zakary Gleichner II",43,7,615,5,4,4,544
+"705","Mrs. Alysa Cummings",1,9,876,5,5,5,555
+"706","Mrs. Anice O'Hara DDS",360,7,469,2,4,3,243
+"707","Mrs. Astrid Bayer PhD",141,8,687,4,5,5,455
+"708","Mrs. Breann Harris",310,5,599,2,3,4,234
+"709","Mrs. Cali Considine",349,5,416,2,3,3,233
+"710","Mrs. Carolann Anderson PhD",590,3,217,1,1,1,111
+"711","Mrs. Charolette McDermott MD",139,1,82,4,1,1,411
+"712","Mrs. Chiquita Jacobs",158,4,144,4,2,1,421
+"713","Mrs. Cleone Hagenes DDS",537,3,331,1,1,2,112
+"714","Mrs. Danika Schulist",443,5,495,2,3,3,233
+"715","Mrs. Delisa Kilback",263,5,476,3,3,3,333
+"716","Mrs. Hildur Mante",431,3,386,2,1,3,213
+"717","Mrs. Ila Leuschke DVM",392,6,396,2,4,3,243
+"718","Mrs. Janel Koepp DVM",285,4,253,3,2,1,321
+"719","Mrs. Jaquelin Weber DVM",147,4,332,4,2,2,422
+"720","Mrs. Jerilynn Schulist",116,7,888,4,4,5,445
+"721","Mrs. Kelcie Schimmel",142,7,536,4,4,4,444
+"722","Mrs. Kyrie Funk",502,5,520,1,3,4,134
+"723","Mrs. Laila Bayer",72,4,516,5,2,4,524
+"724","Mrs. Lois Russel",632,2,166,1,1,1,111
+"725","Mrs. Lucetta Auer",229,3,128,3,1,1,311
+"726","Mrs. Madelyn Hermiston",122,4,446,4,2,3,423
+"727","Mrs. Makenna Bernier PhD",410,4,386,2,2,3,223
+"728","Mrs. Malaya Russel",93,3,209,5,1,1,511
+"729","Mrs. Marti Johnston",377,5,409,2,3,3,233
+"730","Mrs. Maura Schamberger",266,5,434,3,3,3,333
+"731","Mrs. Melany Mitchell DDS",681,1,12,1,1,1,111
+"732","Mrs. Michal Feil DVM",463,5,390,2,3,3,233
+"733","Mrs. Noma Hessel PhD",298,7,815,2,4,5,245
+"734","Mrs. Oneta Lebsack",258,7,777,3,4,5,345
+"735","Mrs. Trudy Rath",387,6,547,2,4,4,244
+"736","Mrs. Vernie Ryan MD",159,6,422,4,4,3,443
+"737","Mrs. Vivien Bauch",109,7,676,5,4,5,545
+"738","Ms. Amaris Williamson MD",241,5,289,3,3,2,332
+"739","Ms. Amira Gutkowski DDS",576,2,191,1,1,1,111
+"740","Ms. Arletta Jast PhD",130,7,720,4,4,5,445
+"741","Ms. Brea Nienow DDS",90,6,580,5,4,4,544
+"742","Ms. Delpha King",43,12,1233,5,5,5,555
+"743","Ms. Elda Schmeler",129,8,744,4,5,5,455
+"744","Ms. Erica Gottlieb",340,8,829,2,5,5,255
+"745","Ms. Ermine Krajcik",595,1,106,1,1,1,111
+"746","Ms. Forest Hartmann DVM",538,3,311,1,1,2,112
+"747","Ms. Giada Weissnat",102,6,346,5,4,2,542
+"748","Ms. Gracelyn Dare",112,6,548,5,4,4,544
+"749","Ms. Gracie Willms",504,4,556,1,2,4,124
+"750","Ms. Grecia Schultz",164,6,357,4,4,2,442
+"751","Ms. Gussie Bartoletti",172,8,885,4,5,5,455
+"752","Ms. Hayleigh Swaniawski DDS",289,4,489,3,2,3,323
+"753","Ms. Hessie Gleichner",414,6,368,2,4,2,242
+"754","Ms. Hollie Crooks",493,5,400,1,3,3,133
+"755","Ms. Iliana O'Conner",194,6,613,3,4,4,344
+"756","Ms. Jacklyn Casper",105,5,415,5,3,3,533
+"757","Ms. Katherine Schroeder",407,6,566,2,4,4,244
+"758","Ms. Katrina Barton PhD",136,7,774,4,4,5,445
+"759","Ms. Kelis Rau MD",86,5,537,5,3,4,534
+"760","Ms. Leaner Jacobs PhD",647,4,458,1,2,3,123
+"761","Ms. Liliana Haley",473,7,589,2,4,4,244
+"762","Ms. Maebell Reinger DVM",443,6,673,2,4,5,245
+"763","Ms. Marolyn Walsh",90,3,180,5,1,1,511
+"764","Ms. Merrilee Lueilwitz",699,1,185,1,1,1,111
+"765","Ms. Nada Barton PhD",114,7,576,5,4,4,544
+"766","Ms. Oralia Kilback",182,6,480,3,4,3,343
+"767","Ms. Penni Corkery",98,6,620,5,4,4,544
+"768","Ms. Peyton Larson DVM",433,6,664,2,4,4,244
+"769","Ms. Sarita Heidenreich DVM",305,4,462,2,2,3,223
+"770","Ms. Starr Corwin DDS",171,4,228,4,2,1,421
+"771","Ms. Val McKenzie PhD",122,4,380,4,2,2,422
+"772","Ms. Valorie Kling",155,5,421,4,3,3,433
+"773","Ms. Zola Nolan",224,4,375,3,2,2,322
+"774","Murl Dicki",178,2,233,4,1,1,411
+"775","Murl Wilkinson II",135,7,936,4,4,5,445
+"776","Murray Harvey",145,5,646,4,3,4,434
+"777","Myer Stokes",491,7,826,1,4,5,145
+"778","Mykel Johnson",276,8,453,3,5,3,353
+"779","Myrle Krajcik",335,6,937,2,4,5,245
+"780","Myrtis Larkin DDS",132,4,423,4,2,3,423
+"781","Naima Treutel",150,5,613,4,3,4,434
+"782","Nan O'Connell",143,2,79,4,1,1,411
+"783","Nathaly Streich",525,6,681,1,4,5,145
+"784","Nathanael Wisozk",636,3,343,1,1,2,112
+"785","Neppie Armstrong",607,1,219,1,1,1,111
+"786","Nery Ankunding PhD",574,4,425,1,2,3,123
+"787","Nevin Boehm",86,6,694,5,4,5,545
+"788","Nico Dickinson",616,8,569,1,5,4,154
+"789","Nigel Leannon II",63,5,579,5,3,4,534
+"790","Nikita Becker",140,4,462,4,2,3,423
+"791","Nikolai Welch MD",192,4,212,3,2,1,321
+"792","Nikolas Shanahan",264,5,268,3,3,2,332
+"793","Nobie Hermann",597,4,353,1,2,2,122
+"794","Noma Dare MD",475,4,597,2,2,4,224
+"795","Nyree Walker",550,3,211,1,1,1,111
+"796","Odelia Rippin",488,6,585,1,4,4,144
+"797","Odessa Haag",586,5,641,1,3,4,134
+"798","Odie Jacobs",484,3,353,1,1,2,112
+"799","Odie Lakin",442,2,132,2,1,1,211
+"800","Odis Schoen",150,5,512,4,3,4,434
+"801","Olaf Witting",191,2,143,3,1,1,311
+"802","Olen Steuber DVM",520,1,39,1,1,1,111
+"803","Olena Kessler",214,2,163,3,1,1,311
+"804","Oley Schroeder I",402,6,632,2,4,4,244
+"805","Olof Swift",88,5,453,5,3,3,533
+"806","Omie Cummerata",519,4,220,1,2,1,121
+"807","Ophelia Ernser",281,6,622,3,4,4,344
+"808","Orpha Bernhard",153,9,955,4,5,5,455
+"809","Orville Lemke III",215,3,147,3,1,1,311
+"810","Ossie Schaden PhD",44,7,600,5,4,4,544
+"811","Ottis Wiza",244,4,242,3,2,1,321
+"812","Pansy Bergstrom",88,5,394,5,3,3,533
+"813","Parker Bailey DVM",852,7,476,1,4,3,143
+"814","Pat Nitzsche PhD",162,4,306,4,2,2,422
+"815","Patience Ferry",249,6,644,3,4,4,344
+"816","Paulo Torphy",892,2,219,1,1,1,111
+"817","Payten Morissette",296,3,466,3,1,3,313
+"818","Pearl Schmidt",446,5,536,2,3,4,234
+"819","Perley Renner",427,6,406,2,4,3,243
+"820","Pershing Johnston MD",296,2,108,3,1,1,311
+"821","Pershing Torp II",490,2,241,1,1,1,111
+"822","Peyton Koelpin",604,1,89,1,1,1,111
+"823","Peyton Runolfsson",174,4,335,4,2,2,422
+"824","Phylis Gaylord",210,5,185,3,3,1,331
+"825","Pierre Stoltenberg",618,2,82,1,1,1,111
+"826","Pink Murazik",449,2,225,2,1,1,211
+"827","Piper Buckridge",601,3,265,1,1,2,112
+"828","Pleasant Ullrich",319,7,1089,2,4,5,245
+"829","Porsche Mayert DDS",496,6,515,1,4,4,144
+"830","Portia Schamberger",49,7,762,5,4,5,545
+"831","Posey Metz",183,10,1060,3,5,5,355
+"832","Pratt Crooks",182,5,300,3,3,2,332
+"833","Price Harvey",411,3,137,2,1,1,211
+"834","Princess Hermann PhD",597,1,55,1,1,1,111
+"835","Prudie Kertzmann",88,8,580,5,5,4,554
+"836","Quintin Tillman",64,9,960,5,5,5,555
+"837","Rafael Mitchell",550,3,421,1,1,3,113
+"838","Raheem Bosco",124,4,182,4,2,1,421
+"839","Rakeem Harvey",454,10,809,2,5,5,255
+"840","Rayna Hagenes PhD",538,4,587,1,2,4,124
+"841","Reanna O'Keefe",35,8,960,5,5,5,555
+"842","Rebeca Kling",129,8,956,4,5,5,455
+"843","Reggie Leffler",455,5,413,2,3,3,233
+"844","Regina Collins",234,5,360,3,3,2,332
+"845","Rexford Greenholt",196,5,570,3,3,4,334
+"846","Reynaldo Davis",681,3,358,1,1,2,112
+"847","Ricci Bins",535,4,210,1,2,1,121
+"848","Rice Prohaska",71,6,319,5,4,2,542
+"849","Rikki Watsica DVM",43,7,581,5,4,4,544
+"850","Riley Heller",171,4,446,4,2,3,423
+"851","Rob Wilderman Sr.",624,1,34,1,1,1,111
+"852","Robbin Herzog",366,4,381,2,2,2,222
+"853","Robert Satterfield",135,4,317,4,2,2,422
+"854","Robert Schmeler",243,3,254,3,1,1,311
+"855","Rochelle Johnson",204,7,652,3,4,4,344
+"856","Roger Green",663,4,468,1,2,3,123
+"857","Rolla Hodkiewicz",564,4,409,1,2,3,123
+"858","Rollie Yundt DVM",600,3,467,1,1,3,113
+"859","Roma Daniel",229,4,197,3,2,1,321
+"860","Roma Rath",490,6,420,1,4,3,143
+"861","Romaine McCullough",232,5,405,3,3,3,333
+"862","Romie Upton",145,8,622,4,5,4,454
+"863","Ronan McLaughlin",289,4,496,3,2,3,323
+"864","Roni Carter",128,4,365,4,2,2,422
+"865","Ronin Beatty Jr.",146,4,434,4,2,3,423
+"866","Rosanne Maggio",67,7,597,5,4,4,544
+"867","Rosario Boyle",417,5,512,2,3,4,234
+"868","Rose Kuphal",69,4,400,5,2,3,523
+"869","Rosevelt Murazik DDS",139,5,447,4,3,3,433
+"870","Rosina Abbott",339,7,652,2,4,4,244
+"871","Ruel Ruecker",176,5,436,4,3,3,433
+"872","Russell Boyle",614,2,265,1,1,2,112
+"873","Ruthe Macejkovic MD",373,9,805,2,5,5,255
+"874","Ryland Predovic",436,5,665,2,3,4,234
+"875","Sadie Upton",151,4,541,4,2,4,424
+"876","Saint Doyle",190,6,558,3,4,4,344
+"877","Samira Medhurst",430,7,826,2,4,5,245
+"878","Santana Bradtke",152,8,732,4,5,5,455
+"879","Savion Rohan",84,10,1118,5,5,5,555
+"880","Schuyler Volkman",160,10,658,4,5,4,454
+"881","Scottie Beahan PhD",275,3,538,3,1,4,314
+"882","Seaborn Bogisich III",178,3,459,4,1,3,413
+"883","Shakira Stokes",75,5,438,5,3,3,533
+"884","Shane Haley",157,5,424,4,3,3,433
+"885","Shania Stamm DDS",188,9,997,3,5,5,355
+"886","Shantel Jenkins",724,4,388,1,2,3,123
+"887","Shari Rowe PhD",426,5,665,2,3,4,234
+"888","Sharyn Barrows",155,6,292,4,4,2,442
+"889","Shaun Rempel",180,4,427,4,2,3,423
+"890","Shea Feil",176,6,588,4,4,4,444
+"891","Shea Gerlach",201,7,760,3,4,5,345
+"892","Shellie Brekke III",591,3,384,1,1,3,113
+"893","Shelton Hudson",153,8,867,4,5,5,455
+"894","Sherlyn Gutmann",19,9,726,5,5,5,555
+"895","Shirl Keebler",90,4,377,5,2,2,522
+"896","Shirl Kuvalis",276,5,450,3,3,3,333
+"897","Shirl Wisozk",630,4,363,1,2,2,122
+"898","Shirlie Nikolaus",210,7,688,3,4,5,345
+"899","Shoji Wintheiser III",140,5,329,4,3,2,432
+"900","Skylar Hoeger",282,4,255,3,2,1,321
+"901","Sol Zboncak",508,3,88,1,1,1,111
+"902","Somer Turcotte",190,10,1018,3,5,5,355
+"903","Sonny Dickens",250,6,362,3,4,2,342
+"904","Soren Gleason",103,9,1061,5,5,5,555
+"905","Stafford Willms",506,3,295,1,1,2,112
+"906","Starling Welch",128,7,590,4,4,4,444
+"907","Stefani Kshlerin",186,7,520,3,4,4,344
+"908","Stephaine Graham",105,4,609,5,2,4,524
+"909","Stetson Ferry DVM",500,3,237,1,1,1,111
+"910","Susannah Bernier",33,6,754,5,4,5,545
+"911","Suzann Koss",288,6,353,3,4,2,342
+"912","Suzette Hartmann",291,6,427,3,4,3,343
+"913","Suzette Pollich",335,4,395,2,2,3,223
+"914","Sydell West",191,6,642,3,4,4,344
+"915","Sylva Littel",178,7,778,4,4,5,445
+"916","Symone McClure",207,4,449,3,2,3,323
+"917","Tallie Gleason",227,3,293,3,1,2,312
+"918","Tamia Hills",443,5,694,2,3,5,235
+"919","Tamia Langworth",576,1,103,1,1,1,111
+"920","Tamika Labadie",138,7,839,4,4,5,445
+"921","Tamisha Crooks",11,6,627,5,4,4,544
+"922","Tarik Marvin Jr.",585,6,510,1,4,4,144
+"923","Tate Turcotte",516,3,394,1,1,3,113
+"924","Tawanda Balistreri MD",103,4,393,5,2,3,523
+"925","Taylor Crist",261,6,643,3,4,4,344
+"926","Tegan O'Conner",177,2,199,4,1,1,411
+"927","Tera Collins",546,3,324,1,1,2,112
+"928","Texas Keebler",484,5,702,1,3,5,135
+"929","Theo Buckridge",15,6,446,5,4,3,543
+"930","Thor Schultz",38,3,274,5,1,2,512
+"931","Tia Zulauf",149,6,522,4,4,4,444
+"932","Tierra Hayes",128,8,952,4,5,5,455
+"933","Tilden Hermann",545,2,96,1,1,1,111
+"934","Tisa Mosciski",229,4,159,3,2,1,321
+"935","Tobie Carroll",344,9,870,2,5,5,255
+"936","Toccara Lebsack",209,6,433,3,4,3,343
+"937","Tomika Koepp",249,6,542,3,4,4,344
+"938","Toney Marvin",212,5,558,3,3,4,334
+"939","Tori Bailey",129,2,121,4,1,1,411
+"940","Torrance Pollich",54,3,377,5,1,2,512
+"941","Torry Reynolds",135,7,650,4,4,4,444
+"942","Tracy Feest",530,4,253,1,2,1,121
+"943","Travis Cartwright",45,8,713,5,5,5,555
+"944","Tressie Buckridge DDS",404,4,504,2,2,3,223
+"945","Trina Gaylord DDS",198,3,264,3,1,2,312
+"946","Triston Mills",332,4,366,2,2,2,222
+"947","Trudie Mraz",89,5,474,5,3,3,533
+"948","Trudy Stokes",472,8,855,2,5,5,255
+"949","True Conroy",40,5,471,5,3,3,533
+"950","Tyshawn Witting",573,3,208,1,1,1,111
+"951","Uriah West",653,3,195,1,1,1,111
+"952","Uriel Kuhn",542,5,567,1,3,4,134
+"953","Valencia Keebler DVM",328,5,369,2,3,2,232
+"954","Vannie Kunze",397,9,823,2,5,5,255
+"955","Velda Goyette",151,6,473,4,4,3,443
+"956","Venice Smith",484,3,219,1,1,1,111
+"957","Verlene Emmerich",240,5,359,3,3,2,332
+"958","Verlin Christiansen Sr.",389,4,491,2,2,3,223
+"959","Verna Hudson",106,5,789,5,3,5,535
+"960","Vernell Lockman",236,1,153,3,1,1,311
+"961","Verona Langosh",539,5,492,1,3,3,133
+"962","Vic Volkman",102,6,492,5,4,3,543
+"963","Vick Okuneva",52,4,569,5,2,4,524
+"964","Vinson Tillman",490,4,454,1,2,3,123
+"965","Violette O'Kon",246,4,565,3,2,4,324
+"966","Virgel Grimes",173,5,675,4,3,5,435
+"967","Vivian McLaughlin MD",416,6,574,2,4,4,244
+"968","Vivienne Medhurst",517,3,390,1,1,3,113
+"969","Von Cassin",402,5,350,2,3,2,232
+"970","Vonda Connelly",515,2,297,1,1,2,112
+"971","Waldemar Greenholt",267,9,859,3,5,5,355
+"972","Wally Nikolaus",181,5,419,3,3,3,333
+"973","Warner Kessler",290,4,310,3,2,2,322
+"974","Warren Osinski",129,10,1038,4,5,5,455
+"975","Watt Cremin",127,1,52,4,1,1,411
+"976","Wellington Runolfsdottir",265,2,39,3,1,1,311
+"977","Wendi Purdy",490,5,560,1,3,4,134
+"978","Werner Hahn",169,6,594,4,4,4,444
+"979","William Sawayn",321,5,570,2,3,4,234
+"980","Willian Runte",157,7,754,4,4,5,445
+"981","Winifred Hills DDS",180,5,618,4,3,4,434
+"982","Winifred Kris",452,6,459,2,4,3,243
+"983","Wong Bradtke II",287,3,280,3,1,2,312
+"984","Woodie Gleichner",395,5,277,2,3,2,232
+"985","Yaakov Labadie",582,1,91,1,1,1,111
+"986","Yazmin Borer MD",549,5,716,1,3,5,135
+"987","Yessenia Rempel",163,4,236,4,2,1,421
+"988","Yetta Gorczany MD",120,6,378,4,4,2,442
+"989","Yoselin Bauch",346,8,760,2,5,5,255
+"990","Zackery Spinka",387,6,406,2,4,3,243
+"991","Zander Lebsack",204,6,574,3,4,4,344
+"992","Zechariah Gislason",207,9,1196,3,5,5,355
+"993","Zenas Pacocha",405,4,442,2,2,3,223
+"994","Zeno Lakin",524,1,38,1,1,1,111
+"995","Zillah Koch PhD",548,4,516,1,2,4,124

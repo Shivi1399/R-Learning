@@ -1,63 +1,47 @@
-#install.packages("readxl")
-#install.packages("lubridate")
-#install.packages("janitor")
-#install.packages("rfm")
-#install.packages("dplyr")
-#install.packages ("writexl")
+# install.packages("rfm")
+# install.packages("lubridate")
+# install.packages("dplyr")
+# install.packages("janitor")
 
-library("readxl")
-library("lubridate")
-library("janitor")
 library("rfm")
+library("lubridate")
 library("dplyr")
-library("writexl")
+library("janitor")
 
-data <- read_xls("London Jets, Spreadsheet Supplement.xls")
-data <- clean_names(data)
+data <- read.csv("./dataset/customer.csv")
+data <- rename(data, "n_transactions" = "number_of_orders")
+data <- rename(data, "total_revenue" = "revenue")
+data <- rename(data, "recency" = "recency_days")
 str(data)
+
+
 
 required_data <- select(
   data,
-  "cust_id",
-  "num_games",
-  "tot_sales",
-  "last_trans_year",
-  "last_trans_month"
+  "customer_id",
+  "n_transactions",
+  "total_revenue",
+  "recency"
 )
-
-required_data <- rename(required_data, customer_id = cust_id)
-
-required_data$last_trans_date <- make_date(
-  year = required_data$last_trans_year,
-  month = required_data$last_trans_month,
-  day = "1"
-)
-
-required_data$recency <- as.numeric(
-  difftime(
-    as_date("2002-01-01"),
-    required_data$last_trans_date
-  )
-)
-
-View(required_data)
 
 str(required_data)
+View(required_data)
+
 ?rfm_table_customer
 rfm_result <- rfm_table_customer(
-  required_data,
-  customer_id = customer_id,
-  n_transactions = "num_games",
+  data = required_data,
+  customer_id = "customer_id",
+  n_transactions = "n_transactions",
   recency = "recency",
-  total_revenue = "tot_sales",
-  analysis_date = as_date("2002-01-01"),
+  total_revenue = "total_revenue",
+  analysis_date = as_date("2007-01-01"),
   recency_bins = 10,
   frequency_bins = 10,
   monetary_bins = 10
 )
 
 output <- rfm_result$rfm
-write_xlsx(output, "output.xlsx")
+write.csv(output, file = "rfm_result.csv")
 
 segment_titles <- c(
   "First Grade",
@@ -90,7 +74,7 @@ output <- rfm_segment(
   monetary_high
 )
 
-write_xlsx(output, "output.xlsx")
+write.csv(output, "rfm_segment.csv")
 
 segment_summary  <- output %>%
   count(segment) %>%
@@ -99,6 +83,4 @@ segment_summary  <- output %>%
   mutate(Percentage = Frequency/sum(Frequency) * 100) %>%
   mutate(Percentage = round(Percentage, digits = 2))
 
-write_xlsx(segment_summary, "segment_summary.xlsx")
-
-rfm_plot_median_frequency(output)
+write.csv(segment_summary, "segment_summary.csv")
