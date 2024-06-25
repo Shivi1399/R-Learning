@@ -1,9 +1,11 @@
 "LHS","RHS","support","confidence","coverage","lift","count"
 "{bathroom_to_bedroom_ratio=Adequate,waterfront=No,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.131938336188139,0.240080869345464,0.549557890838387,1.2021295453712,2850
-"{bathroom_to_bedroom_ratio=Adequate,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.119068561640665,0.235768631405262,0.505022915605759,1.18053736833219,2572
-"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,grade=Decent}","{price=Premium}",0.123373917874172,0.235382441264794,0.524142400814777,1.17860364250367,2665
-"{waterfront=No,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.115642794315078,0.22898524154368,0.505022915605759,1.14657167421999,2498
-"{waterfront=No,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.163788713485487,0.227641230214902,0.71950372667932,1.13984195963655,3538
-"{view=No view,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.105041433266978,0.222756724916552,0.471552242951715,1.11538433354716,2269
-"{waterfront=No,view=No view,condition=Decent,grade=Decent}","{price=Premium}",0.109809731030971,0.222472331645095,0.493588259802787,1.11396032356646,2372
-"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,yr_renovated=Not renovated}","{price=Premium}",0.125179389843063,0.217748429698824,0.5748807925559,1.0903068683181,2704
+"{bathroom_to_bedroom_ratio=Adequate,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.132308689412527,0.239926124916051,0.551455951113374,1.20135471124516,2858
+"{bathrooms=Equal to or less than 3,bathroom_to_bedroom_ratio=Adequate,waterfront=No,grade=Decent}","{price=Premium}",0.131660571269849,0.23919259882254,0.550437479746308,1.19768180972779,2844
+"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,grade=Decent}","{price=Premium}",0.137123281329568,0.239083057551053,0.573538262117495,1.19713331621704,2962
+"{bathrooms=Equal to or less than 3,bathroom_to_bedroom_ratio=Adequate,grade=Decent}","{price=Premium}",0.13221610110643,0.238955823293173,0.553307717235313,1.19649623063417,2856
+"{bathroom_to_bedroom_ratio=Adequate,grade=Decent}","{price=Premium}",0.13767881116615,0.238741269968692,0.576686264524791,1.19542192225167,2974
+"{waterfront=No,grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.181102726725615,0.23202846975089,0.780519420397204,1.16180968360894,3912
+"{grade=Decent,yr_renovated=Not renovated}","{price=Premium}",0.181565668256099,0.231851501537006,0.783111892967918,1.16092357086251,3922
+"{waterfront=No,grade=Decent}","{price=Premium}",0.188232026295079,0.231456708601355,0.813249386602472,1.15894676923919,4066
+"{grade=Decent}","{price=Premium}",0.188926438590806,0.231152647975078,0.817323272070738,1.15742428115662,4081

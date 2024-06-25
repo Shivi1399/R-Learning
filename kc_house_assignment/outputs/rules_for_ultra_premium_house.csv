@@ -1,3 +1,6 @@
-"","lhs","","rhs","support","confidence","coverage","lift","count"
-"[1]","{sqft_living15=Very large}","=>","{price=Ultra premium}",0.115457617702884,0.581351981351981,0.198601916577936,2.90824088679577,2494
-"[2]","{sqft_above=Very large}","=>","{price=Ultra premium}",0.109763436877922,0.550371402042711,0.199435211332809,2.75325906797698,2371
+"LHS","RHS","support","confidence","coverage","lift","count"
+"{sqft_living15=Very large}","{price=Ultra premium}",0.115457617702884,0.581351981351981,0.198601916577936,2.90824088679577,2494
+"{sqft_above=Very large}","{price=Ultra premium}",0.109763436877922,0.550371402042711,0.199435211332809,2.75325906797698,2371
+"{bedrooms=Equal to or less than 6 but greater than 3,bathroom_to_bedroom_ratio=Adequate}","{price=Ultra premium}",0.106985787695014,0.419723937522702,0.254895606684876,2.099688924138,2311
+"{bedrooms=Equal to or less than 6 but greater than 3}","{price=Ultra premium}",0.135734456738114,0.335085714285714,0.405073839174112,1.6762821941375,2932
+"{floors=2}","{price=Ultra premium}",0.124114624322948,0.319356759976176,0.388639414841905,1.59759735346118,2681

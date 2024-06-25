@@ -105,7 +105,20 @@ summary(apriori_data$price)
 temp <- unique(data$bedrooms)
 temp[order(temp, decreasing = FALSE)]
 summary(as.factor(data$bedrooms))
-apriori_data$bedrooms <- as.factor(data$bedrooms)
+
+#apriori_data$bedrooms <- as.factor(data$bedrooms)
+apriori_data$bedrooms <- cut(
+  data$bedrooms, 
+  breaks=c(-Inf,0,3,6,9,max(data$bedrooms)), 
+  labels=c(
+    "No bedroom",
+    "Equal to or less than 3",
+    "Equal to or less than 6 but greater than 3",
+    "Equal to or less than 9 but greater than 6",
+    "Greater than 9"
+  ),
+  include.lowest = TRUE
+)
 
 summary(apriori_data$bedrooms)
 
@@ -115,7 +128,20 @@ summary(apriori_data$bedrooms)
 temp <- unique(data$bathrooms)
 temp[order(temp, decreasing = FALSE)]
 summary(data$bathrooms)
-apriori_data$bathrooms <- as.factor(data$bathrooms)
+summary(as.factor(data$bathrooms))
+
+#apriori_data$bathrooms <- as.factor(data$bathrooms)
+apriori_data$bathrooms <- cut(
+  data$bathrooms, 
+  breaks=c(-Inf,0,3,6,max(data$bathrooms)), 
+  labels=c(
+    "No bathrooms",
+    "Equal to or less than 3",
+    "Equal to or less than 6 but greater than 3",
+    "Greater than 6"
+  ),
+  include.lowest = TRUE
+)
 
 summary(apriori_data$bathrooms)
 
@@ -456,10 +482,10 @@ write.csv(apriori_data, "outputs/apriori_data.csv")
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 5,
-    maxlen = 14,
+    minlen = 2,
+    maxlen = 6,
     supp = 0.1,
-    conf = 0.2
+    conf = 0.4
   ),
   appearance = list(
     rhs = c("price=Cheap"),
@@ -473,7 +499,7 @@ which(reduntant)
 inspect(rules[reduntant])
 rules.pruned <- rules[!reduntant]
 rules.pruned <- sort(rules.pruned, by="lift")
-rules_for_cheap_house <- inspect(rules.pruned)
+rules_for_cheap_house <- DATAFRAME(rules.pruned)
 
 write.csv(
   rules_for_cheap_house, 
@@ -487,10 +513,10 @@ write.csv(
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 5,
-    maxlen = 14,
+    minlen = 2,
+    maxlen = 6,
     supp = 0.1,
-    conf = 0.2
+    conf = 0.25
   ),
   appearance = list(
     rhs = c("price=Affordable"),
@@ -518,10 +544,10 @@ write.csv(
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 5,
-    maxlen = 14,
+    minlen = 2,
+    maxlen = 6,
     supp = 0.1,
-    conf = 0.2
+    conf = 0.25
   ),
   appearance = list(
     rhs = c("price=Expensive"),
@@ -549,10 +575,10 @@ write.csv(
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 5,
+    minlen = 2,
     maxlen = 14,
     supp = 0.1,
-    conf = 0.2
+    conf = 0.23
   ),
   appearance = list(
     rhs = c("price=Premium"),
@@ -583,7 +609,7 @@ rules <- apriori(
     minlen = 2,
     maxlen = 14,
     supp = 0.1,
-    conf = 0.5
+    conf = 0.25
   ),
   appearance = list(
     rhs = c("price=Ultra premium"),
@@ -596,6 +622,10 @@ which(reduntant)
 inspect(rules[reduntant])
 rules.pruned <- rules[!reduntant]
 rules.pruned <- sort(rules.pruned, by="lift")
-rules_for_ultra_premium_house <- inspect(rules.pruned)
+rules_for_ultra_premium_house <- DATAFRAME(rules.pruned)
 
-write.csv(rules_for_ultra_premium_house, "outputs/rules_for_ultra_premium_house.csv")
+write.csv(
+  rules_for_ultra_premium_house, 
+  "outputs/rules_for_ultra_premium_house.csv",
+  row.names = FALSE
+  )

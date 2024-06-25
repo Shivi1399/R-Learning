@@ -1,15 +1,14 @@
 "LHS","RHS","support","confidence","coverage","lift","count"
+"{bathrooms=Equal to or less than 3,view=No view,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.112633674366927,0.259547685086409,0.433961390676358,1.29689788238527,2433
+"{bathrooms=Equal to or less than 3,view=No view,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.116892736447387,0.257889898886733,0.45326605249757,1.28861432011388,2525
 "{view=No view,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.1134669691218,0.25670297444491,0.442016573306791,1.28268354174983,2451
-"{waterfront=No,view=No view,grade=Decent,sqft_basement=No basement}","{price=Affordable}",0.115827970927272,0.253649635036496,0.456645525670108,1.26742673292236,2502
+"{bathrooms=Equal to or less than 3,view=No view,grade=Decent,sqft_basement=No basement}","{price=Affordable}",0.114902087866302,0.256617038875103,0.447757048284802,1.28225414220243,2482
+"{bathrooms=Equal to or less than 3,waterfront=No,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.115087264478496,0.254765320762451,0.45173834544697,1.27300154841307,2486
+"{bathrooms=Equal to or less than 3,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.115133558631545,0.254372506903958,0.452617934354891,1.27103875124506,2487
+"{view=No view,grade=Decent,sqft_basement=No basement}","{price=Affordable}",0.115827970927272,0.253649635036496,0.456645525670108,1.26742673292236,2502
+"{bathrooms=Equal to or less than 3,view=No view,condition=Decent,grade=Decent}","{price=Affordable}",0.119346326558956,0.252250489236791,0.473126244155363,1.26043553504601,2578
 "{waterfront=No,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.116013147539466,0.251884611518746,0.460580528679228,1.25860733134777,2506
+"{bathrooms=Equal to or less than 3,waterfront=No,grade=Decent,sqft_basement=No basement}","{price=Affordable}",0.11740197213092,0.25148750495835,0.466830239340771,1.25662308457213,2536
+"{grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.116059441692514,0.251454363089268,0.461552705893246,1.25645748255639,2507
 "{view=No view,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.118327855191889,0.250932652660514,0.471552242951715,1.25385061996756,2556
-"{waterfront=No,view=No view,condition=Decent,grade=Decent}","{price=Affordable}",0.120874033609555,0.244888388670043,0.493588259802787,1.2236488743145,2611
-"{waterfront=No,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.121661034211379,0.240902007516729,0.505022915605759,1.20372987841056,2628
-"{waterfront=No,view=No view,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Affordable}",0.131151335586315,0.235123246742468,0.557798250081015,1.17485478900857,2833
-"{waterfront=No,view=No view,condition=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.129577334382667,0.229746367889682,0.56400166658951,1.14798780772265,2799
-"{waterfront=No,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.164853479005602,0.229121091236649,0.71950372667932,1.14486344941079,3561
-"{bathroom_to_bedroom_ratio=Adequate,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.115226146937642,0.228160234668622,0.505022915605759,1.14006227829676,2489
-"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,grade=Decent}","{price=Affordable}",0.117031618906532,0.223282105635047,0.524142400814777,1.1156874309097,2528
-"{floors=1,waterfront=No,view=No view,yr_renovated=Not renovated}","{price=Affordable}",0.112170732836443,0.221318962367556,0.506828387574649,1.1058780721956,2423
-"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,grade=Decent,yr_renovated=Not renovated}","{price=Affordable}",0.119068561640665,0.21666245472159,0.549557890838387,1.08261061402754,2572
-"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,yr_renovated=Not renovated}","{price=Affordable}",0.12133697514004,0.211064583668868,0.5748807925559,1.05463938742337,2621
+"{bathrooms=Equal to or less than 3,grade=Decent,sqft_basement=No basement}","{price=Affordable}",0.117448266283968,0.250840419220882,0.468219063932225,1.25338975146664,2537

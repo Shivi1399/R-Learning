@@ -1,8 +1,12 @@
-"lhs","","rhs","support","confidence","coverage","lift","count"
-"{floors=1, view=No view, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.110087495949262,0.41063719564842,0.26808944030369,2.05280584660993,2378
-"{floors=1, waterfront=No, view=No view, sqft_basement=No basement}","=>","{price=Cheap}",0.113698439887042,0.407094314603017,0.279292625341419,2.03509472106914,2456
-"{floors=1, waterfront=No, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.111754085459007,0.399140211640212,0.279987037637146,1.99533156946082,2414
-"{floors=1, waterfront=No, view=No view, yr_renovated=Not renovated}","=>","{price=Cheap}",0.15429841211055,0.304439166971136,0.506828387574649,1.52191401197489,3333
-"{bedrooms=3, waterfront=No, view=No view, yr_renovated=Not renovated}","=>","{price=Cheap}",0.110689319938892,0.273663728968754,0.404472015184482,1.36806531114419,2391
-"{waterfront=No, view=No view, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.143882227674645,0.257946717569923,0.557798250081015,1.28949480357045,3108
-"{waterfront=No, view=No view, condition=Decent, yr_renovated=Not renovated}","=>","{price=Cheap}",0.113235498356558,0.200771566937536,0.56400166658951,1.00367197811102,2446
+"LHS","RHS","support","confidence","coverage","lift","count"
+"{bedrooms=Equal to or less than 3,bathrooms=Equal to or less than 3,floors=1,view=No view,sqft_basement=No basement}","{price=Cheap}",0.100319429656034,0.433486697339468,0.231424471089301,2.16703220301547,2167
+"{bedrooms=Equal to or less than 3,floors=1,view=No view,sqft_basement=No basement}","{price=Cheap}",0.100412017962131,0.433193529059317,0.231794824313689,2.165566633004,2169
+"{bedrooms=Equal to or less than 3,bathrooms=Equal to or less than 3,floors=1,waterfront=No,sqft_basement=No basement}","{price=Cheap}",0.101847136706634,0.421940928270042,0.241377713994722,2.10931404572117,2200
+"{bedrooms=Equal to or less than 3,floors=1,waterfront=No,sqft_basement=No basement}","{price=Cheap}",0.101939725012731,0.421596783457783,0.241794361372159,2.10759364023873,2202
+"{bedrooms=Equal to or less than 3,bathrooms=Equal to or less than 3,floors=1,sqft_basement=No basement}","{price=Cheap}",0.101939725012731,0.420630372492837,0.24234989120874,2.10276248003188,2202
+"{bedrooms=Equal to or less than 3,floors=1,sqft_basement=No basement}","{price=Cheap}",0.102032313318828,0.420289855072464,0.242766538586177,2.10106020815096,2204
+"{bathrooms=Equal to or less than 3,floors=1,view=No view,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Cheap}",0.109856025184019,0.411479105254032,0.266978380630526,2.05701461527247,2373
+"{floors=1,view=No view,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Cheap}",0.110087495949262,0.41063719564842,0.26808944030369,2.05280584660993,2378
+"{bathrooms=Equal to or less than 3,floors=1,view=No view,sqft_basement=No basement}","{price=Cheap}",0.1134669691218,0.408091908091908,0.278042683209111,2.04008176502969,2451
+"{floors=1,view=No view,sqft_basement=No basement}","{price=Cheap}",0.113698439887042,0.407094314603017,0.279292625341419,2.03509472106914,2456
+"{bathrooms=Equal to or less than 3,floors=1,waterfront=No,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Cheap}",0.111522614693764,0.400299102691924,0.278598213045692,2.00112495192045,2409
