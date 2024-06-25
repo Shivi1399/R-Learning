@@ -451,12 +451,105 @@ write.csv(apriori_data, "outputs/apriori_data.csv")
 #Apriori Rules
 
 ##############################
+#Rules for cheap houses
+##############################
+rules <- apriori(
+  data = apriori_data,
+  parameter = list(
+    minlen = 5,
+    maxlen = 14,
+    supp = 0.1,
+    conf = 0.2
+  ),
+  appearance = list(
+    rhs = c("price=Cheap"),
+    default="lhs"
+  )
+)
+
+inspect(rules)
+reduntant <- is.redundant(rules, measure="confidence")
+which(reduntant)
+inspect(rules[reduntant])
+rules.pruned <- rules[!reduntant]
+rules.pruned <- sort(rules.pruned, by="lift")
+rules_for_cheap_house <- inspect(rules.pruned)
+
+write.csv(
+  rules_for_cheap_house, 
+  "outputs/rules_for_cheap_house.csv",
+  row.names = FALSE
+  )
+
+##############################
+#Rules for affordable houses
+##############################
+rules <- apriori(
+  data = apriori_data,
+  parameter = list(
+    minlen = 5,
+    maxlen = 14,
+    supp = 0.1,
+    conf = 0.2
+  ),
+  appearance = list(
+    rhs = c("price=Affordable"),
+    default="lhs"
+  )
+)
+
+inspect(rules)
+reduntant <- is.redundant(rules, measure="confidence")
+which(reduntant)
+inspect(rules[reduntant])
+rules.pruned <- rules[!reduntant]
+rules.pruned <- sort(rules.pruned, by="lift")
+rules_for_affordable_house <- DATAFRAME(rules.pruned)
+
+write.csv(
+  rules_for_affordable_house, 
+  "outputs/rules_for_affordable_house.csv",
+  row.names = FALSE
+  )
+
+##############################
+#Rules for expensive houses
+##############################
+rules <- apriori(
+  data = apriori_data,
+  parameter = list(
+    minlen = 5,
+    maxlen = 14,
+    supp = 0.1,
+    conf = 0.2
+  ),
+  appearance = list(
+    rhs = c("price=Expensive"),
+    default="lhs"
+  )
+)
+
+inspect(rules)
+reduntant <- is.redundant(rules, measure="confidence")
+which(reduntant)
+inspect(rules[reduntant])
+rules.pruned <- rules[!reduntant]
+rules.pruned <- sort(rules.pruned, by="lift")
+rules_for_expensive_house <- DATAFRAME(rules.pruned)
+
+write.csv(
+  rules_for_expensive_house, 
+  "outputs/rules_for_expensive_house.csv", 
+  row.names = FALSE
+  )
+
+##############################
 #Rules for premium houses
 ##############################
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 2,
+    minlen = 5,
     maxlen = 14,
     supp = 0.1,
     conf = 0.2
@@ -467,14 +560,19 @@ rules <- apriori(
   )
 )
 
+inspect(rules)
 reduntant <- is.redundant(rules, measure="confidence")
 which(reduntant)
 inspect(rules[reduntant])
 rules.pruned <- rules[!reduntant]
 rules.pruned <- sort(rules.pruned, by="lift")
-rules_for_premium_house <- inspect(rules.pruned)
+rules_for_premium_house <- DATAFRAME(rules.pruned)
 
-write.csv(rules_for_premium_house, "outputs/rules_for_premium_house.csv")
+write.csv(
+  rules_for_premium_house, 
+  "outputs/rules_for_premium_house.csv",
+  row.names = FALSE
+  )
 
 ##############################
 #Rules for Ultra premium houses
@@ -482,7 +580,7 @@ write.csv(rules_for_premium_house, "outputs/rules_for_premium_house.csv")
 rules <- apriori(
   data = apriori_data,
   parameter = list(
-    minlen = 3,
+    minlen = 2,
     maxlen = 14,
     supp = 0.1,
     conf = 0.5

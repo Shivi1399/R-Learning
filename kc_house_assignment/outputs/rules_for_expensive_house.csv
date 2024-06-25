@@ -1,0 +1,15 @@
+"LHS","RHS","support","confidence","coverage","lift","count"
+"{view=No view,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.115133558631545,0.244158649126252,0.471552242951715,1.21943837682686,2487
+"{waterfront=No,view=No view,condition=Decent,grade=Decent}","{price=Expensive}",0.119855562242489,0.242824985931345,0.493588259802787,1.2127774615267,2589
+"{waterfront=No,condition=Decent,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.121614740058331,0.240810340086167,0.505022915605759,1.20271541183845,2627
+"{floors=1,waterfront=No,view=No view,grade=Decent}","{price=Expensive}",0.101291606870052,0.239754547446855,0.422480440720337,1.19744230737561,2188
+"{bathroom_to_bedroom_ratio=Adequate,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.119901856395537,0.237418645155376,0.505022915605759,1.18577575815059,2590
+"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,grade=Decent}","{price=Expensive}",0.123883153557706,0.236354001059883,0.524142400814777,1.18045844552475,2676
+"{waterfront=No,view=No view,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.168557011249479,0.234268433920988,0.71950372667932,1.1700421829196,3641
+"{floors=1,waterfront=No,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.104671080042591,0.23420343898902,0.446923753529929,1.16971756892528,2261
+"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,grade=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.126938567658905,0.230983067980794,0.549557890838387,1.15363358415101,2742
+"{waterfront=No,view=No view,grade=Decent,sqft_basement=No basement}","{price=Expensive}",0.101430489329198,0.222120843471208,0.456645525670108,1.1093716392651,2191
+"{waterfront=No,grade=Decent,yr_renovated=Not renovated,sqft_basement=No basement}","{price=Expensive}",0.101337901023101,0.220022112775153,0.460580528679228,1.09888963192048,2189
+"{bathroom_to_bedroom_ratio=Adequate,waterfront=No,view=No view,yr_renovated=Not renovated}","{price=Expensive}",0.125318272302208,0.217990014495088,0.5748807925559,1.08874041690367,2707
+"{waterfront=No,view=No view,condition=Decent,yr_renovated=Not renovated}","{price=Expensive}",0.121475857599185,0.215382089797258,0.56400166658951,1.07571526513539,2624
+"{floors=1,waterfront=No,view=No view,yr_renovated=Not renovated}","{price=Expensive}",0.108883847970001,0.214833759590793,0.506828387574649,1.07297665686028,2352

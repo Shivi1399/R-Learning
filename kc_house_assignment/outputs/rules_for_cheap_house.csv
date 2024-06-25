@@ -1,0 +1,8 @@
+"lhs","","rhs","support","confidence","coverage","lift","count"
+"{floors=1, view=No view, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.110087495949262,0.41063719564842,0.26808944030369,2.05280584660993,2378
+"{floors=1, waterfront=No, view=No view, sqft_basement=No basement}","=>","{price=Cheap}",0.113698439887042,0.407094314603017,0.279292625341419,2.03509472106914,2456
+"{floors=1, waterfront=No, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.111754085459007,0.399140211640212,0.279987037637146,1.99533156946082,2414
+"{floors=1, waterfront=No, view=No view, yr_renovated=Not renovated}","=>","{price=Cheap}",0.15429841211055,0.304439166971136,0.506828387574649,1.52191401197489,3333
+"{bedrooms=3, waterfront=No, view=No view, yr_renovated=Not renovated}","=>","{price=Cheap}",0.110689319938892,0.273663728968754,0.404472015184482,1.36806531114419,2391
+"{waterfront=No, view=No view, yr_renovated=Not renovated, sqft_basement=No basement}","=>","{price=Cheap}",0.143882227674645,0.257946717569923,0.557798250081015,1.28949480357045,3108
+"{waterfront=No, view=No view, condition=Decent, yr_renovated=Not renovated}","=>","{price=Cheap}",0.113235498356558,0.200771566937536,0.56400166658951,1.00367197811102,2446
