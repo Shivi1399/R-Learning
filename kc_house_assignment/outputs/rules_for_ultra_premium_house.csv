@@ -1,0 +1,5 @@
+"","lhs","","rhs","support","confidence","coverage","lift","count"
+"[1]","{waterfront=No, sqft_living15=Very large}","=>","{price=Ultra premium}",0.111244849775473,0.572961373390558,0.194157677885283,2.86626647211891,2403
+"[2]","{yr_renovated=Not renovated, sqft_living15=Very large}","=>","{price=Ultra premium}",0.108698671357808,0.570872842207634,0.190407851488357,2.85581849572189,2348
+"[3]","{waterfront=No, sqft_above=Very large}","=>","{price=Ultra premium}",0.106615434470626,0.543544961057352,0.196148326466367,2.71910947285777,2303
+"[4]","{yr_renovated=Not renovated, sqft_above=Very large}","=>","{price=Ultra premium}",0.103328549604185,0.542142336652903,0.190593028100551,2.71209277768396,2232
