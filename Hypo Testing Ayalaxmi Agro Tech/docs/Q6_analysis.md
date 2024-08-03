@@ -247,7 +247,7 @@ The estimation of mean, reported that, during favourable weather the mean usage 
 Here, at 5% alpha value(95% confidence), the p-value is higher than that of alpha, hence we do not reject the null hypothesis.
 We conclude that, in case of D7, during favourable weather condition the usage of that Disease by the users is not high.
 
-## Respond of Weather alerts
+## Respond to Weather alerts
 |   D   |   Disease                 |   Belagavi    |   Dharwad |   Generalize  |
 |   -   |   -----               |   --------    |   ------- |   ----------  |
 |   D1  |    Damping off             |       T       |   T       |   T           |
